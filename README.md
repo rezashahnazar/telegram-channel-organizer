@@ -1,17 +1,19 @@
 # Telegram Channel Organizer
 
-This project provides a Python script to generate an organized table of contents from messages exported by the Telegram official app. The script processes messages—either by sampling a subset or processing all messages in batches—leveraging the OpenAI API to summarize and categorize the content.
+This project provides a Python script to generate an organized table of contents from messages exported by the Telegram official app using an advanced AI summarization process. The script processes messages—either by sampling a subset or processing all messages in batches—leveraging the OpenAI API to summarize and categorize content. The latest implementation optimizes performance through concurrent batch processing and utilizes a refined JSON schema for the message export.
 
 ## Features
 
 - **Telegram Export Support:**  
-  Load and normalize messages from a Telegram channel export (JSON format).
+  Load and normalize messages from a Telegram channel export (JSON format). The messages follow a streamlined schema with key fields:
+
+  - `id`, `classes`, `type`, `timestamp`, `time`, `content`, `links` (optional), and `media` (optional).
 
 - **Summarization & Organization:**  
-  Group messages by topics with concise summaries, dates, and links.
+  Group messages by topic and obtain concise summaries along with full timestamps and primary links using the OpenAI API.
 
-- **Batch Processing & Merging:**  
-  For large exports, process messages in batches and then intelligently merge the partial outputs into a coherent, consolidated table of contents.
+- **Concurrent Batch Processing & Merging:**  
+  For large exports, the script processes messages in batches concurrently and uses intelligent merging (via additional AI calls) to create a coherent, consolidated table of contents.
 
 - **Multiple Output Formats:**  
   Export the final table of contents in both JSON and Markdown formats.
@@ -49,7 +51,7 @@ _Note: Ensure you have a `.env` file in the project root (see Setup below)._
 
 2. **Export Telegram Channel Content**
 
-   Use the Telegram macOS app's export feature to export your channel messages. Save the exported JSON file (e.g., `exported_channel.json`) in the project directory.
+   Use the Telegram macOS app's export feature to export your channel messages. Convert the HTML export to JSON using the provided `convert_to_json.py` script. Save the resulting JSON file (default name: `telegram_messages.json`) in the project directory.
 
 ## Usage
 
@@ -60,17 +62,17 @@ Run the Python script (`main.py`) from the command line. The script provides two
 Processes a subset of messages (default sample size is 50) to generate the table of contents.
 
 ```bash
-python main.py --export_file exported_channel.json --sample_size 50
+python main.py --export_file telegram_messages.json --sample_size 50
 ```
 
 If the number of messages in the file is less than the specified sample size, the script adjusts automatically.
 
 ### 2. All Messages Mode
 
-Processes all messages by chunking them into batches and then merging the partial outputs with an intelligent, re-summarization approach. Use the `--all` flag:
+Processes all messages by dividing them into batches and then merging the partial outputs with AI-driven re-summarization. Use the `--all` flag:
 
 ```bash
-python main.py --export_file exported_channel.json --all --batch_size 50
+python main.py --export_file telegram_messages.json --all --batch_size 50
 ```
 
 Here, `--batch_size` defines how many messages are processed per batch.
@@ -85,8 +87,8 @@ Upon completion, the script generates two files in the project root:
 ## Command-Line Arguments
 
 - **`--export_file`**  
-  _Description:_ Specifies the path to the exported Telegram channel JSON file.  
-  _Default:_ `exported_channel.json`
+  _Description:_ Specifies the path to the exported Telegram JSON file with the new schema.  
+  _Default:_ `telegram_messages.json`
 
 - **`--sample_size`**  
   _Description:_ Number of messages to sample for creating the table of contents (used when `--all` is not set).  
@@ -102,7 +104,7 @@ Upon completion, the script generates two files in the project root:
 ## Troubleshooting
 
 - **No Messages Loaded:**  
-  Ensure that your exported JSON file follows the expected Telegram export format.
+  Ensure that your exported JSON file follows the expected schema for Telegram messages.
 
 - **API Errors:**  
   Verify your OpenAI API key and base URL in the `.env` file.
@@ -114,7 +116,8 @@ Upon completion, the script generates two files in the project root:
 
 **Reza Shahnazar**  
 GitHub: [rezashahnazar](https://github.com/rezashahnazar)  
-Email: `reza.shahnazar@gmail.com`
+Email: `reza.shahnazar@gmail.com`  
+Work Email (Digikala): `r.shahnazar@digikala.com`
 
 ## License
 
