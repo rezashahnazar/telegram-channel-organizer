@@ -1,0 +1,3731 @@
+{
+  "Scalability & Performance": [
+    {
+      "summary": "Organized Reading list: Patterns of Scalable, Reliable & performant Large-Scale Systems",
+      "timestamp": "2023-08-13T02:12:14",
+      "link": "https://github.com/binhnguyennus/awesome-scalability"
+    }
+  ],
+  "Databases": [
+    {
+      "summary": "Story of A Regretful Migration from SQL to NoSQL",
+      "timestamp": "2023-08-15T07:28:55",
+      "link": "https://engineering.salesforce.com/sql-or-nosql-9eaf1d92545b/"
+    },
+    {
+      "summary": "Tracking Database Changes in Django Optimzed : Using Postgresql Trigger",
+      "timestamp": "2023-08-15T18:46:04",
+      "link": "https://django-pghistory.readthedocs.io/en/2.8.0/"
+    },
+    {
+      "summary": "Tracking Database Changes in Django General: Works with all SQL Databases",
+      "timestamp": "2023-08-15T18:46:04",
+      "link": "https://django-simple-history.readthedocs.io/en/latest/quick_start.html"
+    },
+    {
+      "summary": "Django Multi-Database Support",
+      "timestamp": "2023-09-09T22:33:57",
+      "link": "https://docs.djangoproject.com/en/4.2/topics/db/multi-db/"
+    }
+  ],
+  "Microservices & APIs": [
+    {
+      "summary": "GRPC Django Framework",
+      "timestamp": "2023-08-15T18:43:27",
+      "link": "https://soheltarir.github.io/grpc-django/"
+    },
+    {
+      "summary": "Microservice Infrastructure with Django",
+      "timestamp": "2023-09-09T22:20:54",
+      "link": "https://medium.com/@akiva10b/microservice-infrastructure-with-django-8f985e86a057"
+    },
+    {
+      "summary": "AWS Service-Oriented Architecture",
+      "timestamp": "2023-09-09T21:58:38",
+      "link": "https://aws.amazon.com/what-is/service-oriented-architecture/"
+    },
+    {
+      "summary": "Django API Domains",
+      "timestamp": "2023-09-10T00:09:46",
+      "link": "https://phalt.github.io/django-api-domains/"
+    },
+    {
+      "summary": "Django API Domains Styleguide",
+      "timestamp": "2023-10-31T17:03:20",
+      "link": "https://phalt.github.io/django-api-domains/styleguide/"
+    }
+  ],
+  "Blockchain & Cryptocurrency": [
+    {
+      "summary": "Blockchain Implementing Blockchain in a Python Project",
+      "timestamp": "2023-08-17T18:32:04",
+      "link": "https://github.com/Navaneeth2906/BlockchainSystem"
+    },
+    {
+      "summary": "Explanation of Proof-Of-Stake (PoS)",
+      "timestamp": "2023-08-17T18:32:04",
+      "link": "https://youtu.be/YudpU58uYuM"
+    },
+    {
+      "summary": "Proof-Of-Stake in a Python Project",
+      "timestamp": "2023-08-17T18:32:04",
+      "link": "https://github.com/csunny/blockchain"
+    }
+  ],
+  "Machine Learning & AI": [
+    {
+      "summary": "Pycaret: Simple-To-Use ML Package (From EDA to API) + Complete Tutorial",
+      "timestamp": "2023-08-18T12:56:12",
+      "link": "https://pycaret.org"
+    },
+    {
+      "summary": "Loading and Using an ML Model in Django",
+      "timestamp": "2024-01-11T21:49:30",
+      "link": "https://ayoubb.com/technology/loading-and-using-an-ml-model-in-django/"
+    },
+    {
+      "summary": "Official HuggingFace Amazing AI Project Examples Using Open-source Models",
+      "timestamp": "2024-02-25T16:07:58",
+      "link": "https://huggingface.co/learn/cookbook/en/index"
+    },
+    {
+      "summary": "Google Gemini API",
+      "timestamp": "2023-12-28T11:41:48",
+      "link": "https://www.analyticsvidhya.com/blog/2023/12/google-gemini-api/"
+    }
+  ],
+  "Workflow Automation": [
+    {
+      "summary": "n8n: Workflow Automation (Email, Slack, Excel, ...)",
+      "timestamp": "2023-08-23T05:58:10",
+      "link": "https://github.com/n8n-io/n8n"
+    },
+    {
+      "summary": "n8n: Workflow Automation (Email, Slack, Excel, ...)",
+      "timestamp": "2023-08-23T05:58:10",
+      "link": "https://www.youtube.com/watch?v=1MwSoB0gnM4"
+    }
+  ],
+  "Personalization & Marketing": [
+    {
+      "summary": "Personalization in Personalized Marketing: Trends and Ways Forward",
+      "timestamp": "2023-08-23T10:44:18",
+      "link": "https://www.researchgate.net/journal/Psychology-and-Marketing-1520-6793/publication/359921784_Personalization_in_Personalized_Marketing_Trends_and_Ways_Forward/links/627948972f9ccf58eb3a00e7/Personalization-in-Personalized-Marketing-Trends-and-Ways-Forward.pdf?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJfZGlyZWN0In19"
+    },
+    {
+      "summary": "The Age Of Personalization",
+      "timestamp": "2023-08-23T10:44:19",
+      "link": "https://hbr.org/resources/pdfs/comm/mastercard/TheAgeOfPersonalization.pdf"
+    },
+    {
+      "summary": "AI Marketing POV",
+      "timestamp": "2023-08-23T10:44:19",
+      "link": "https://www2.deloitte.com/content/dam/Deloitte/ca/Documents/deloitte-analytics/ca-en-omnia-ai-marketing-pov-fin-jun24-aoda.pdf"
+    },
+    {
+      "summary": "Personalized Marketing Works",
+      "timestamp": "2023-08-23T13:14:38",
+      "link": "https://blog.gwi.com/marketing/personalized-marketing-works/"
+    },
+    {
+      "summary": "What is Personalization",
+      "timestamp": "2023-08-23T13:41:25",
+      "link": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-personalization"
+    },
+    {
+      "summary": "The top trends in tech",
+      "timestamp": "2023-08-23T13:44:44",
+      "link": "https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-top-trends-in-tech#new-and-notable"
+    },
+    {
+      "summary": "AWS Personalize Campaigns",
+      "timestamp": "2023-08-28T23:18:52",
+      "link": "https://docs.aws.amazon.com/personalize/latest/dg/campaigns.html"
+    },
+    {
+      "summary": "Customer Marketing",
+      "timestamp": "2024-02-15T01:40:30",
+      "link": "https://sendpulse.com/support/glossary/customer-marketing"
+    },
+    {
+      "summary": "What is Customer Marketing?",
+      "timestamp": "2024-02-15T01:40:48",
+      "link": "https://www.productmarketingalliance.com/what-is-customer-marketing/"
+    }
+  ],
+  "Python Packages & Development": [
+    {
+      "summary": "How to create a pip package and host on private github repo",
+      "timestamp": "2023-09-09T23:08:46",
+      "link": "https://dev.to/rf_schubert/how-to-create-a-pip-package-and-host-on-private-github-repo-58pa"
+    },
+    {
+      "summary": "Python Package for Creating Telegram Bots",
+      "timestamp": "2024-01-30T17:58:25",
+      "link": "https://github.com/eternnoir/pyTelegramBotAPI"
+    },
+    {
+      "summary": "How to create a pip package and host on private github repo",
+      "timestamp": "2024-01-11T14:57:06",
+      "link": "https://dev.to/rf_schubert/how-to-create-a-pip-package-and-host-on-private-github-repo-58pa"
+    }
+  ],
+  "Monitoring & Observability": [
+    {
+      "summary": "Grafana",
+      "timestamp": "2023-09-09T23:56:37",
+      "link": "https://grafana.com"
+    }
+  ],
+  "Testing": [
+    {
+      "summary": "Python Mock Library - Patch as a Decorator",
+      "timestamp": "2023-09-10T01:06:43",
+      "link": "https://realpython.com/python-mock-library/#patch-as-a-decorator"
+    },
+    {
+      "summary": "Python Patch",
+      "timestamp": "2023-09-10T02:20:44",
+      "link": "https://www.pythontutorial.net/python-unit-testing/python-patch/"
+    },
+    {
+      "summary": "Coverage.py",
+      "timestamp": "2023-09-10T02:31:10",
+      "link": "https://coverage.readthedocs.io/en/7.3.1/"
+    },
+    {
+      "summary": "Testing with Django REST Framework",
+      "timestamp": "2023-09-10T04:01:47",
+      "link": "https://dev.to/j_mplourde/testing-with-django-rest-framework-295a"
+    },
+    {
+      "summary": "Playwright for Python - Writing Tests",
+      "timestamp": "2023-12-05T00:15:18",
+      "link": "https://playwright.dev/python/docs/writing-tests"
+    }
+  ],
+  "Generative AI": [
+    {
+      "summary": "Stable Diffusion XL API",
+      "timestamp": "2023-11-30T01:05:41",
+      "link": "https://github.com/KoushikNavuluri/stable-diffusion-xl-api"
+    },
+    {
+      "summary": "Stability AI Generative Models",
+      "timestamp": "2023-12-01T11:17:40",
+      "link": "https://github.com/Stability-AI/generative-models"
+    },
+    {
+      "summary": "Lexica Art",
+      "timestamp": "2023-12-22T10:26:24",
+      "link": "https://lexica.art"
+    }
+  ],
+  "Data Science & Visualization": [
+    {
+      "summary": "Animated Charts (Bar Race, ...)",
+      "timestamp": "2024-01-26T21:52:49",
+      "link": "https://pypi.org/project/sjvisualizer"
+    },
+    {
+      "summary": "Pandas in Django",
+      "timestamp": "2024-01-11T21:27:29",
+      "link": "https://studygyaan.com/django/pandas-in-django"
+    },
+    {
+      "summary": "Interactive Python Notebook / Data Exploration",
+      "timestamp": "2024-03-01T22:37:00",
+      "link": "https://marimo.io/"
+    }
+  ],
+  "UI Components & Animation": [
+    {
+      "summary": "Animate.css",
+      "timestamp": "2024-01-28T18:12:29",
+      "link": "https://animate.style/"
+    },
+    {
+      "summary": "Keen Slider Examples",
+      "timestamp": "2023-12-24T21:11:56",
+      "link": "https://keen-slider.io/examples"
+    },
+    {
+      "summary": "An Easy-To-Use & Complete React Component Library",
+      "timestamp": "2024-02-17T15:08:15",
+      "link": "https://rsuitejs.com/"
+    },
+    {
+      "summary": "React.cloneElement(): When Parent Element, Modifies Props of its Children",
+      "timestamp": "2024-02-26T14:14:00",
+      "link": "https://www.geeksforgeeks.org/how-to-use-react-cloneelement-function/amp/"
+    },
+    {
+      "summary": "NextJS Animations",
+      "timestamp": "2024-01-07T15:45:25",
+      "link": "https://github.com/danielwuachin/nextjs-animations"
+    },
+    {
+      "summary": "Awesome Loaders",
+      "timestamp": "2024-01-03T02:37:06",
+      "link": "https://awesome-loaders.netlify.app"
+    },
+    {
+      "summary": "dndkit",
+      "timestamp": "2024-01-02T00:08:41",
+      "link": "https://dndkit.com"
+    }
+  ],
+  "Web Development & Frameworks": [
+    {
+      "summary": "Nextra Site",
+      "timestamp": "2023-08-18T21:46:20",
+      "link": "https://nextra.site"
+    },
+    {
+      "summary": "Tailwind CSS v3.4",
+      "timestamp": "2023-12-30T04:44:49",
+      "link": "https://tailwindcss.com/blog/tailwindcss-v3-4"
+    },
+    {
+      "summary": "Incoming 20 New CSS Viewport Units",
+      "timestamp": "2023-12-30T04:53:56",
+      "link": "https://www.terluinwebdesign.nl/en/css/incoming-20-new-css-viewport-units-svh-lvh-dvh-svw-lvw-dvw/"
+    },
+    {
+      "summary": "IndexedDB",
+      "timestamp": "2024-01-03T10:48:14",
+      "link": "https://web.dev/articles/indexeddb"
+    },
+    {
+      "summary": "Dexie.org",
+      "timestamp": "2024-01-03T10:49:25",
+      "link": "https://dexie.org"
+    },
+    {
+      "summary": "Creating Custom NextJS Edge Middlewares",
+      "timestamp": "2024-02-23T02:14:31",
+      "link": "https://vercel.com/docs/functions/edge-middleware/quickstart"
+    },
+    {
+      "summary": "Manipulating HTML Strings after Parsing into React Components",
+      "timestamp": "2024-02-25T03:54:15",
+      "link": "https://www.npmjs.com/package/html-react-parser"
+    },
+    {
+      "summary": "Body Scroll Lock",
+      "timestamp": "2024-01-31T20:29:13",
+      "link": "https://www.npmjs.com/package/body-scroll-lock"
+    }
+  ],
+  "Package Management & Version Control": [
+    {
+      "summary": "Publishing a Private NPM Package to Github",
+      "timestamp": "2024-01-11T12:46:00",
+      "link": "https://medium.com/@sam-king/publishing-a-private-npm-package-to-github-cf4c42e0ee1a"
+    },
+    {
+      "summary": "Private NPM Packages in Github Package Registry",
+      "timestamp": "2024-01-11T12:46:16",
+      "link": "https://levelup.gitconnected.com/private-npm-packages-in-github-package-registry-fbfda43acab3"
+    },
+    {
+      "summary": "Conventional Commits",
+      "timestamp": "2024-01-11T12:56:24",
+      "link": "https://www.conventionalcommits.org/en/v1.0.0/"
+    },
+    {
+      "summary": "Don't Lose Your Github Contributions When You Leave an Organization",
+      "timestamp": "2024-01-11T14:40:44",
+      "link": "https://blog.vikrantbhat.com/dont-lose-your-github-contributions-when-you-leave-an-organization"
+    }
+  ],
+  "SQLModel & FastAPI": [
+    {
+      "summary": "SQLModel Issues",
+      "timestamp": "2023-12-22T10:11:14",
+      "link": "https://github.com/tiangolo/sqlmodel/issues/85"
+    },
+    {
+      "summary": "FastAPI SQLModel",
+      "timestamp": "2023-12-22T10:20:07",
+      "link": "https://testdriven.io/blog/fastapi-sqlmodel/"
+    },
+    {
+      "summary": "How to get started with Alembic and SQLModel",
+      "timestamp": "2024-01-11T17:31:03",
+      "link": "https://medium.com/@kasperjuunge/how-to-get-started-with-alembic-and-sqlmodel-288700002543"
+    },
+    {
+      "summary": "FastAPI SQLModel",
+      "timestamp": "2024-01-11T19:43:24",
+      "link": "https://testdriven.io/blog/fastapi-sqlmodel/"
+    },
+    {
+      "summary": "Awesome FastAPI",
+      "timestamp": "2024-01-13T15:31:07",
+      "link": "https://project-awesome.org/mjhea0/awesome-fastapi"
+    },
+    {
+      "summary": "FastAPI CRUD Router",
+      "timestamp": "2024-01-14T08:20:54",
+      "link": "https://fastapi-crudrouter.awtkns.com/routing"
+    },
+    {
+      "summary": "FastCRUD",
+      "timestamp": "2024-01-26T20:54:47",
+      "link": "https://igorbenav.github.io/fastcrud/"
+    }
+  ],
+  "Django": [
+    {
+      "summary": "Django Extensions",
+      "timestamp": "2024-01-16T00:34:55",
+      "link": "https://django-extensions.readthedocs.io/en/latest/"
+    },
+    {
+      "summary": "Django 5.0 Release Notes",
+      "timestamp": "2024-02-25T04:02:23",
+      "link": "https://docs.djangoproject.com/en/5.0/releases/5.0/"
+    }
+  ],
+  "Design Systems": [
+    {
+      "summary": "Design Systems Repo",
+      "timestamp": "2024-01-17T09:43:59",
+      "link": "https://designsystemsrepo.com"
+    }
+  ],
+  "React": [
+    {
+      "summary": "Codesandbox Example",
+      "timestamp": "2024-01-14T14:02:49",
+      "link": "https://codesandbox.io/embed/zxpv7"
+    },
+    {
+      "summary": "React Flip Toolkit",
+      "timestamp": "2024-05-01T05:10:51",
+      "link": "https://www.npmjs.com/package/react-flip-toolkit"
+    },
+    {
+      "summary": "React User Onboarding",
+      "timestamp": "2024-05-12T22:10:33",
+      "link": "https://github.com/JohnDamilola/react-user-onboarding"
+    },
+    {
+      "summary": "React Accessibility",
+      "timestamp": "2024-06-19T18:40:15",
+      "link": "https://www.tiny.cloud/blog/react-accessibility"
+    },
+    {
+      "summary": "Accessible Navbar",
+      "timestamp": "2024-06-24T21:30:36",
+      "link": "https://www.npmjs.com/package/accessible-navbar"
+    },
+    {
+      "summary": "React Icons",
+      "timestamp": "2024-06-24T23:35:50",
+      "link": "https://react-icons.github.io/react-icons/"
+    }
+  ],
+  "Image Processing": [
+    {
+      "summary": "rembg - Remove Image Background",
+      "timestamp": "2023-11-05T22:51:27",
+      "link": "https://github.com/danielgatis/rembg"
+    }
+  ],
+  "NLP": [
+    {
+      "summary": "Hezar - Persian NLP Library",
+      "timestamp": "2023-11-29T19:27:01",
+      "link": "https://github.com/hezarai/hezar"
+    },
+    {
+      "summary": "Hazm - Persian NLP Library",
+      "timestamp": "2023-11-30T00:43:43",
+      "link": "https://github.com/roshan-research/hazm"
+    },
+    {
+      "summary": "Awesome Persian NLP Tools",
+      "timestamp": "2023-11-30T00:44:28",
+      "link": "https://github.com/mhbashari/awesome-persian-nlp-ir/blob/master/sections/tools.md"
+    },
+    {
+      "summary": "albert-fa-zwnj-base-v2-ner",
+      "timestamp": "28.03.2024 03:17:14 UTC+03:30",
+      "link": "https://huggingface.co/HooshvareLab/albert-fa-zwnj-base-v2-ner"
+    },
+    {
+      "summary": "Flair NLP",
+      "timestamp": "28.03.2024 03:25:01 UTC+03:30",
+      "link": "https://flairnlp.github.io"
+    },
+    {
+      "summary": "Hugging Face Datasets",
+      "timestamp": "28.03.2024 03:28:00 UTC+03:30",
+      "link": "https://huggingface.co/datasets/RadeAI/Digikala_comments_products"
+    }
+  ],
+  "Uncategorized": [
+    {
+      "summary": "Video",
+      "timestamp": "2023-08-18T18:53:40",
+      "link": "https://youtu.be/fUVfkLUmII4"
+    },
+    {
+      "summary": "Google Drive Folder",
+      "timestamp": "2023-11-20T00:10:00",
+      "link": "https://drive.google.com/drive/mobile/folders/1CgN7DE3pNRNh_4BA_zrrMLqWz6KquwuD"
+    },
+    {
+      "summary": "React Page Flip",
+      "timestamp": "2023-11-29T21:19:09",
+      "link": "https://nodlik.github.io/react-pageflip/"
+    },
+    {
+      "summary": "Youtube Video",
+      "timestamp": "2023-09-05T13:23:53",
+      "link": "https://youtu.be/hFliPqg4BNM?si=dz-ca0ESuA0rzolv"
+    },
+    {
+      "summary": "Youtube Video",
+      "timestamp": "2023-10-31T17:11:45",
+      "link": "https://youtu.be/tloKxFgom58"
+    },
+    {
+      "summary": "Starlette Admin",
+      "timestamp": "2024-01-14T08:25:46",
+      "link": "https://jowilf.github.io/starlette-admin/"
+    },
+    {
+      "summary": "Fetch Event Source",
+      "timestamp": "2023-12-15T00:54:58",
+      "link": "https://github.com/Azure/fetch-event-source"
+    }
+  ],
+  "Frontend Development": [
+    {
+      "summary": "Proxy FrontEnd EndPoint to External API using NextJS and Vite",
+      "timestamp": "06.03.2024 22:04:46 UTC+03:30",
+      "link": "https://nextjs.org/docs/app/api-reference/next-config-js/rewrites"
+    },
+    {
+      "summary": "Amazing Adobe React Component Library",
+      "timestamp": "18.03.2024 01:05:52 UTC+03:30",
+      "link": "https://react-spectrum.adobe.com/index.html"
+    },
+    {
+      "summary": "Generating Color Shades with UI Colors and Figma Plugin",
+      "timestamp": "19.03.2024 13:01:20 UTC+03:30",
+      "link": "https://uicolors.app/"
+    },
+    {
+      "summary": "Tailwind React/NextJs Dashboard Components and Blocks",
+      "timestamp": "24.03.2024 21:28:15 UTC+03:30",
+      "link": "https://www.tremor.so"
+    },
+    {
+      "summary": "Monitor Responsive FronEnd Dev.",
+      "timestamp": "24.03.2024 21:47:30 UTC+03:30",
+      "link": "https://responsively.app/"
+    },
+    {
+      "summary": "Clean Complete Component Library - NextJs Optimized",
+      "timestamp": "24.03.2024 21:55:04 UTC+03:30",
+      "link": "https://mantine.dev/"
+    },
+    {
+      "summary": "Scroll-Depended UI Interactions",
+      "timestamp": "26.03.2024 18:54:24 UTC+03:30",
+      "link": "https://lenis.darkroom.engineering"
+    },
+    {
+      "summary": "Shadcn: A Clean UI Component Library, Has Introduced Blocks with Edit in V0.dev Feature",
+      "timestamp": "27.03.2024 21:44:00 UTC+03:30",
+      "link": "V0.dev"
+    },
+    {
+      "summary": "Devices CSS",
+      "timestamp": "02.04.2024 21:00:51 UTC+03:30",
+      "link": "https://devicescss.xyz"
+    }
+  ],
+  "AI and Machine Learning": [
+    {
+      "summary": "Free Course About Open Source AI Models & HuggingFace",
+      "timestamp": "07.03.2024 00:49:17 UTC+03:30",
+      "link": "https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/"
+    },
+    {
+      "summary": "Vercel's Open-Source AI SDK",
+      "timestamp": "23.03.2024 04:56:22 UTC+03:30",
+      "link": "https://sdk.vercel.ai/docs/api-reference/ai-stream"
+    },
+    {
+      "summary": "llama.cpp is a tool for running Llama models locally on your laptop!",
+      "timestamp": "26.03.2024 16:47:09 UTC+03:30",
+      "link": "https://github.com/ggerganov/llama.cpp"
+    },
+    {
+      "summary": "Llama-7B-hf model free for download",
+      "timestamp": "26.03.2024 17:43:45 UTC+03:30",
+      "link": "https://huggingface.co/baffo32/decapoda-research-llama-7B-hf/tree/main"
+    },
+    {
+      "summary": "Create customized AI models with little code",
+      "timestamp": "26.03.2024 18:02:57 UTC+03:30",
+      "link": "https://ludwig.ai/latest/"
+    },
+    {
+      "summary": "Google's Open Source LLM in HuggingFace",
+      "timestamp": "27.03.2024 19:22:12 UTC+03:30",
+      "link": "https://huggingface.co/blog/gemma#what-is-gemma"
+    },
+    {
+      "summary": "SCEPTER: Alibaba's Open-Source AI Image Tool",
+      "timestamp": "29.03.2024 01:27:14 UTC+03:30",
+      "link": "https://github.com/modelscope/scepter#%EF%B8%8F-scepter-studio"
+    }
+  ],
+  "Customer Data Platform (CDP)": [
+    {
+      "summary": "Customer Data Platform (CDP) - Recommendation - Segmentation",
+      "timestamp": "08.03.2024 23:55:11 UTC+03:30",
+      "link": "https://support.ometria.com/"
+    },
+    {
+      "summary": "Customer Data Platform (CDP) Resources",
+      "timestamp": "11.03.2024 07:26:08 UTC+03:30",
+      "link": "https://iniciativas.iabmexico.com/centro-de-recursos/programmatic/pdf/socios/Datamanagenentplatforms-Adobe.pdf"
+    },
+    {
+      "summary": "Introductory guide for marketers on Customer Data Platforms",
+      "timestamp": "11.03.2024 07:28:48 UTC+03:30",
+      "link": "https://www.cm.com/cdn/web/file/whitepapers/an-introductory-guide-for-marketers-customer-data-platforms.pdf"
+    },
+    {
+      "summary": "Customer Data Platform Resources",
+      "timestamp": "11.03.2024 07:31:07 UTC+03:30",
+      "link": "https://www.ingage.media/data/data-8.pdf"
+    },
+    {
+      "summary": "Customer Data Platform Resources",
+      "timestamp": "11.03.2024 07:33:24 UTC+03:30",
+      "link": "https://www2.deloitte.com/content/dam/Deloitte/dk/Documents/events/GnG-CDPinAction28092021.pdf"
+    },
+    {
+      "summary": "Customer Data Platform Resources",
+      "timestamp": "11.03.2024 07:35:27 UTC+03:30",
+      "link": "https://media.trustradius.com/product-downloadables/7N/SW/MFI277QTQTDT.pdf"
+    },
+    {
+      "summary": "Adobe Real-Time CDP Features and Benefits",
+      "timestamp": "11.03.2024 08:13:59 UTC+03:30",
+      "link": "https://www.gofurther.com/blog/adobe-real-time-cdp-post-1-features-and-benefits"
+    }
+  ],
+  "Analytics": [
+    {
+      "summary": "How to Fix GA in Iran",
+      "timestamp": "11.03.2024 23:18:35 UTC+03:30",
+      "link": "https://dmboard.media/professional/pick/failure-of-analytics-ga4-zandi-afshin/"
+    }
+  ],
+  "Google Search Updates": [
+    {
+      "summary": "March 2024 Google Search Announced Policies",
+      "timestamp": "12.03.2024 12:27:59 UTC+03:30",
+      "link": "https://blog.google/products/search/google-search-update-march-2024/"
+    }
+  ],
+  "E-commerce": [
+    {
+      "summary": "Amazon Shopping App",
+      "timestamp": "12.03.2024 12:35:23 UTC+03:30",
+      "link": "https://www.aboutamazon.com/news/retail/amazon-shopping-app"
+    },
+    {
+      "summary": "Jungle Scout: A Platform to Empower Sellers on Amazon",
+      "timestamp": "20.03.2024 20:35:53 UTC+03:30",
+      "link": "https://developer.junglescout.com/api"
+    },
+    {
+      "summary": "Amazon Shopping Assistant",
+      "timestamp": "28.03.2024 04:03:48 UTC+03:30",
+      "link": "https://huggingface.co/Amazon-Web-Services/shopping-assistant"
+    },
+    {
+      "summary": "about.digikala.com/reports/digikala1402/",
+      "timestamp": "2024-08-20T11:41:55",
+      "link": "https://about.digikala.com/reports/digikala1402/"
+    },
+    {
+      "summary": "baymard.com/ux-benchmark",
+      "timestamp": "2024-08-20T15:55:29",
+      "link": "https://baymard.com/ux-benchmark"
+    },
+    {
+      "summary": "www.bigcommerce.com",
+      "timestamp": "2024-08-20T18:25:54",
+      "link": "https://www.bigcommerce.com"
+    },
+    {
+      "summary": "www.omnisend.com/",
+      "timestamp": "2024-08-25T01:10:39",
+      "link": "https://www.omnisend.com/"
+    }
+  ],
+  "Backend Development": [
+    {
+      "summary": "Official FastAPI Full-Stack Template",
+      "timestamp": "13.03.2024 02:34:53 UTC+03:30",
+      "link": "https://github.com/tiangolo/full-stack-fastapi-template"
+    },
+    {
+      "summary": "Well-known Django Package for SQL / Cache / Request Inspection",
+      "timestamp": "22.03.2024 16:13:56 UTC+03:30",
+      "link": "https://django-debug-toolbar.readthedocs.io/en/latest/"
+    },
+    {
+      "summary": "Tracking All Django Packages",
+      "timestamp": "23.03.2024 14:31:48 UTC+03:30",
+      "link": "https://djangopackages.org"
+    },
+    {
+      "summary": "Cloudflare Open-Sourced It's Internal Proxy Tool",
+      "timestamp": "28.03.2024 16:50:30 UTC+03:30",
+      "link": "https://github.com/cloudflare/pingora"
+    },
+    {
+      "summary": "Django Database Functions",
+      "timestamp": "02.04.2024 15:03:45 UTC+03:30",
+      "link": "https://docs.djangoproject.com/en/5.0/ref/models/database-functions/"
+    }
+  ],
+  "Product Management": [
+    {
+      "summary": "PRD / BRD Differences",
+      "timestamp": "14.03.2024 00:13:57 UTC+03:30",
+      "link": "https://jtibrewala.medium.com/understanding-the-differences-between-brds-and-prds-a-guide-for-new-product-managers-3c2ff627f671"
+    },
+    {
+      "summary": "The Original Article Introducing The RICE Method for Prioritization",
+      "timestamp": "23.03.2024 21:32:35 UTC+03:30",
+      "link": "https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/"
+    },
+    {
+      "summary": "The Greatest Example Ever of MVP and Iterative Incremental Development",
+      "timestamp": "03.04.2024 22:32:00 UTC+03:30",
+      "link": "https://medium.com/@gerterasmus23/the-greatest-example-ever-of-mvp-and-iterative-incremental-development-41fd718ece06"
+    }
+  ],
+  "Marketing": [
+    {
+      "summary": "RFM / CLV / HVC",
+      "timestamp": "15.03.2024 16:26:24 UTC+03:30",
+      "link": "https://clevertap.com/blog/rfm-analysis/"
+    },
+    {
+      "summary": "Accenture Life Trends 2024 Report",
+      "timestamp": "19.03.2024 15:23:38 UTC+03:30",
+      "link": "https://www.accenture.com/content/dam/accenture/final/accenture-com/document-2/Accenture-Life-Trends-2024-Report.pdf"
+    }
+  ],
+  "Development Resources": [
+    {
+      "summary": "Algorithms in Different Languages All In One Place",
+      "timestamp": "24.03.2024 07:42:32 UTC+03:30",
+      "link": "https://github.com/TheAlgorithms"
+    },
+    {
+      "summary": "Any SVG You Want",
+      "timestamp": "24.03.2024 20:55:59 UTC+03:30",
+      "link": "https://www.svgrepo.com"
+    },
+    {
+      "summary": "Amazing Open Source UI Elements",
+      "timestamp": "24.03.2024 21:12:48 UTC+03:30",
+      "link": "https://uiverse.io/"
+    }
+  ],
+  "Python": [
+    {
+      "summary": "Python Package for Load Test",
+      "timestamp": "23.03.2024 12:54:31 UTC+03:30",
+      "link": "https://docs.locust.io/"
+    },
+    {
+      "summary": "Pandas Parallel Processing Empowering Current Pandas",
+      "timestamp": "23.03.2024 15:03:46 UTC+03:30",
+      "link": "https://pypi.org/project/parallel-pandas/"
+    },
+    {
+      "summary": "White House Recommends Python",
+      "timestamp": "26.03.2024 23:42:26 UTC+03:30",
+      "link": "https://pyfound.blogspot.com/2024/02/white-house-recommends-.html#:~:text=Back%20in%20December%20of%202023,was%20the%20Python%20programming%20language"
+    }
+  ],
+  "Rust": [
+    {
+      "summary": "Learn Rust",
+      "timestamp": "24.03.2024 16:20:06 UTC+03:30",
+      "link": "https://doc.rust-lang.org/stable/book/"
+    },
+    {
+      "summary": "Create Desktop Apps in Rust by Coding NextJs !",
+      "timestamp": "24.03.2024 21:34:10 UTC+03:30",
+      "link": "https://tauri.app"
+    },
+    {
+      "summary": "The NSA List of Memory-Safe Programming Languages has been Updated",
+      "timestamp": "26.03.2024 23:45:12 UTC+03:30",
+      "link": "https://readwrite.com/the-nsa-list-of-memory-safe-programming-languages-has-been-updated/"
+    },
+    {
+      "summary": "Rust Data Analysis",
+      "timestamp": "27.03.2024 22:38:01 UTC+03:30",
+      "link": "https://github.com/wiseaidev/rust-data-analysis"
+    },
+    {
+      "summary": "Rust REPL in Jupyter Notebook",
+      "timestamp": "27.03.2024 22:40:32 UTC+03:30",
+      "link": "https://depth-first.com/articles/2020/09/21/interactive-rust-in-a-repl-and-jupyter-notebook-with-evcxr/"
+    },
+    {
+      "summary": "Rust REST Framework",
+      "timestamp": "27.03.2024 22:52:39 UTC+03:30",
+      "link": "https://rocket.rs"
+    },
+    {
+      "summary": "Rust ORM",
+      "timestamp": "27.03.2024 22:57:49 UTC+03:30",
+      "link": "https://diesel.rs"
+    }
+  ],
+  "Data Science": [
+    {
+      "summary": "Interactively Generate Pivottables and Plots in Jupyter Notebook",
+      "timestamp": "24.03.2024 17:09:51 UTC+03:30",
+      "link": "https://pypi.org/project/pivottablejs/"
+    },
+    {
+      "summary": "Time-Series Prediction / Forecasting Darts: A Simple Python Package",
+      "timestamp": "23.03.2024 13:34:05 UTC+03:30",
+      "link": "https://unit8co.github.io/darts/"
+    },
+    {
+      "summary": "Pandas Parallel Processing",
+      "timestamp": "23.03.2024 15:03:46 UTC+03:30",
+      "link": "https://pypi.org/project/parallel-pandas/"
+    }
+  ],
+  "Other": [
+    {
+      "summary": "PenPot: Figma Alternative Full-Featured Free & Open-Source Web Design & Prototyping App",
+      "timestamp": "24.03.2024 18:50:20 UTC+03:30",
+      "link": "https://penpot.app/"
+    },
+    {
+      "summary": "Mobile Simulator: Chrome Extension",
+      "timestamp": "24.03.2024 21:02:32 UTC+03:30",
+      "link": "https://www.webmobilefirst.com/en/"
+    },
+    {
+      "summary": "Next.js Blue-Green Deployments on Vercel",
+      "timestamp": "25.03.2024 20:30:21 UTC+03:30",
+      "link": "https://vercel.com/templates/next.js/blue-green-deployments-vercel"
+    },
+    {
+      "summary": "Gamma App",
+      "timestamp": "27.03.2024 02:15:49 UTC+03:30",
+      "link": "https://gamma.app/"
+    },
+    {
+      "summary": "Virtual Try-On",
+      "timestamp": "29.03.2024 01:22:15 UTC+03:30",
+      "link": "https://github.com/levihsu/OOTDiffusion"
+    },
+    {
+      "summary": "Develop in Swift",
+      "timestamp": "31.03.2024 19:15:14 UTC+03:30",
+      "link": "https://developer.apple.com/tutorials/develop-in-swift"
+    },
+    {
+      "summary": "Zarela Utopia",
+      "timestamp": "07.04.2024 12:43:46 UTC+03:30",
+      "link": "https://whitepaper.zarela.io/zarela-story/zarela-utopia"
+    },
+    {
+      "summary": "Zarela-dev GitHub",
+      "timestamp": "07.04.2024 12:44:08 UTC+03:30",
+      "link": "https://github.com/Zarela-dev"
+    },
+    {
+      "summary": "Andrew Ng joins Amazon board of directors",
+      "timestamp": "2024-04-11T21:29:23",
+      "link": "https://www.aboutamazon.com/news/company-news/dr-andrew-ng-joins-amazon-board-of-directors"
+    },
+    {
+      "summary": "Markdown Presentation",
+      "timestamp": "2024-04-11T22:38:03",
+      "link": "https://revealjs.com/"
+    },
+    {
+      "summary": "Anchor for local HTTPS development",
+      "timestamp": "2024-04-22T17:45:45",
+      "link": "https://github.com/FiloSottile/mkcert"
+    },
+    {
+      "summary": "Micro - Frontend in NextJS",
+      "timestamp": "2024-04-24T15:57:29",
+      "link": "https://vercel.com/templates/next.js/microfrontends"
+    },
+    {
+      "summary": "Descriptive Statistics for DataScience",
+      "timestamp": "2024-04-25T15:26:32",
+      "link": "https://realpython.com/python-statistics/"
+    },
+    {
+      "summary": "Learn SQL for Analytics",
+      "timestamp": "2024-04-25T16:12:51",
+      "link": "https://www.freecodecamp.org/news/learn-sql-for-analytics/"
+    },
+    {
+      "summary": "Perplexica GitHub repository",
+      "timestamp": "2024-04-28T07:58:51",
+      "link": "https://github.com/ItzCrazyKns/Perplexica"
+    },
+    {
+      "summary": "Dokploy documentation",
+      "timestamp": "2024-05-01T05:10:51",
+      "link": "https://docs.dokploy.com/introduction"
+    },
+    {
+      "summary": "Codapi",
+      "timestamp": "2024-05-02T15:24:27",
+      "link": "https://codapi.org"
+    },
+    {
+      "summary": "Next SEO",
+      "timestamp": "2024-05-03T06:50:05",
+      "link": "https://github.com/garmeeh/next-seo"
+    },
+    {
+      "summary": "CSS GG App",
+      "timestamp": "2024-06-02T19:09:31",
+      "link": "https://css.gg/app"
+    },
+    {
+      "summary": "Banner Blindness",
+      "timestamp": "2024-06-21T12:55:58",
+      "link": "https://www.nngroup.com/articles/banner-blindness-old-and-new-findings/"
+    },
+    {
+      "summary": "Banner Blindness",
+      "timestamp": "2024-06-21T12:57:55",
+      "link": "https://youtu.be/Ghtog0yAXE0?si=AQjlDner7FIEz_Zk"
+    },
+    {
+      "summary": "Meshgradient.in",
+      "timestamp": "2024-07-12T07:20:42",
+      "link": "https://meshgradient.in"
+    },
+    {
+      "summary": "Go Facebook Link",
+      "timestamp": "2024-07-23T20:01:40",
+      "link": "https://go.fb.me/hvuqhb"
+    },
+    {
+      "summary": "IncarnaMind on GitHub",
+      "timestamp": "2024-07-27T21:25:10",
+      "link": "https://github.com/junruxiong/IncarnaMind"
+    },
+    {
+      "summary": "Digikala Report",
+      "timestamp": "2024-08-03T03:36:23",
+      "link": "https://r.jina.ai/https://about.digikala.com/reports/digikala1401/"
+    },
+    {
+      "summary": "www.kapa.ai/",
+      "timestamp": "2024-08-08T22:01:44",
+      "link": "https://www.kapa.ai/"
+    },
+    {
+      "summary": "developer.nvidia.com/usd",
+      "timestamp": "2024-08-18T12:34:56",
+      "link": "https://developer.nvidia.com/usd"
+    },
+    {
+      "summary": "www.hexagen.world/",
+      "timestamp": "2024-08-25T15:58:41",
+      "link": "https://www.hexagen.world/"
+    },
+    {
+      "summary": "vercel.com/marketplace",
+      "timestamp": "2024-08-28T22:38:07",
+      "link": "https://vercel.com/marketplace"
+    }
+  ],
+  "PyTorch": [
+    {
+      "summary": "PyTorch Tutorial and ChatBot with PyTorch",
+      "timestamp": "22.03.2024 15:12:03 UTC+03:30",
+      "link": "https://youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&si=FUwHbwxV8DG7fP1K"
+    }
+  ],
+  "AI SDK": [
+    {
+      "summary": "Vercel's Open-Source AI SDK",
+      "timestamp": "23.03.2024 04:56:22 UTC+03:30",
+      "link": "https://sdk.vercel.ai/docs/api-reference/ai-stream"
+    }
+  ],
+  "Salary Report": [
+    {
+      "summary": "Job Vision Salary Report 1403",
+      "timestamp": "07.04.2024 12:26:16 UTC+03:30",
+      "link": "https://t.me/productinbox"
+    }
+  ],
+  "AWS": [
+    {
+      "summary": "AWS Personalize with GenAI",
+      "timestamp": "28.03.2024 04:33:42 UTC+03:30",
+      "link": "https://docs.aws.amazon.com/personalize/latest/dg/personalize-with-gen-ai.html"
+    }
+  ],
+  "LLM": [
+    {
+      "summary": "Mixtral Ollama LlamaIndex LLM",
+      "timestamp": "28.03.2024 06:54:12 UTC+03:30",
+      "link": "https://scalastic.io/en/mixtral-ollama-llamaindex-llm/"
+    },
+    {
+      "summary": "The Best Open-Source Biomedical LLM",
+      "timestamp": "2024-04-27T10:53:48",
+      "link": "https://huggingface.co/aaditya/OpenBioLLM-Llama3-8B"
+    },
+    {
+      "summary": "Mistral.RS : Fast Rust-Based LLM Inference",
+      "timestamp": "2024-04-27T11:01:26",
+      "link": "https://github.com/EricLBuehler/mistral.rs"
+    },
+    {
+      "summary": "Apple Released OpenELM & CatLIP Fully Open Source",
+      "timestamp": "2024-04-27T12:01:55",
+      "link": "https://arxiv.org/abs/2404.14619"
+    },
+    {
+      "summary": "LlamaIndex Ollama Examples",
+      "timestamp": "2024-04-28T00:59:29",
+      "link": "https://llamabox.eu/2024/02/10/summarization-with-llamaindex-and-ollama.html"
+    },
+    {
+      "summary": "Frontend AI Guide",
+      "timestamp": "2024-04-29T16:33:25",
+      "link": "https://www.freecodecamp.org/news/frontend-ai-guide/"
+    },
+    {
+      "summary": "Using Langchain for Question Answering on Own Data",
+      "timestamp": "2024-04-29T22:52:43",
+      "link": "https://medium.com/@onkarmishra/using-langchain-for-question-answering-on-own-data-3af0a82789ed"
+    },
+    {
+      "summary": "Anakin AI",
+      "timestamp": "2024-04-29T23:29:00",
+      "link": "https://anakin.ai/"
+    },
+    {
+      "summary": "llama-3-API on Hugging Face Spaces",
+      "timestamp": "2024-04-29T23:29:03",
+      "link": "https://huggingface.co/spaces/FumesAI/llama-3-API"
+    },
+    {
+      "summary": "Replicate",
+      "timestamp": "2024-04-29T23:29:08",
+      "link": "https://replicate.com/"
+    },
+    {
+      "summary": "Anima/air_llm on GitHub",
+      "timestamp": "2024-04-30T10:28:39",
+      "link": "https://github.com/lyogavin/Anima/tree/main/air_llm"
+    },
+    {
+      "summary": "Vercel AI SDK 3.1 - Modelfusion joins the team",
+      "timestamp": "2024-05-02T23:48:09",
+      "link": "https://vercel.com/blog/vercel-ai-sdk-3-1-modelfusion-joins-the-team"
+    },
+    {
+      "summary": "Vercel AI SDK 3 - Generative UI",
+      "timestamp": "2024-05-08T06:49:56",
+      "link": "https://vercel.com/blog/ai-sdk-3-generative-ui"
+    },
+    {
+      "summary": "Modelfusion tutorial and examples",
+      "timestamp": "2024-05-13T10:16:00",
+      "link": "https://modelfusion.dev/tutorial/demos"
+    },
+    {
+      "summary": "Introducing Vercel AI SDK 3.2",
+      "timestamp": "2024-06-21T18:58:59",
+      "link": "https://vercel.com/blog/introducing-vercel-ai-sdk-3-2"
+    },
+    {
+      "summary": "Claude 3.5 Sonnet",
+      "timestamp": "2024-06-21T19:19:19",
+      "link": "https://www.linkedin.com/posts/anthropicresearch_claude-35-sonnetour-most-intelligent-model-activity-7209897201718677504-eHDc"
+    },
+    {
+      "summary": "Composable AI for Ecommerce: Hands-on with Vercel's AI SDK",
+      "timestamp": "2024-06-28T05:22:43",
+      "link": "https://vercel.com/blog/composable-ai-for-ecommerce-hands-on-with-vercels-ai-sdk"
+    },
+    {
+      "summary": "AI Review Summary",
+      "timestamp": "2024-06-28T05:22:17",
+      "link": "https://review-summary.vercel.app"
+    },
+    {
+      "summary": "AI Review Summary code",
+      "timestamp": "2024-06-28T05:23:26",
+      "link": "https://github.com/vercel/ai-review-summary/blob/main/lib/ai-summary.ts"
+    }
+  ],
+  "AI Models and Frameworks": [
+    {
+      "summary": "Drawdb: Open source whiteboard to design databases",
+      "timestamp": "2024-04-07T18:11:42",
+      "link": "https://github.com/drawdb-io/drawdb"
+    },
+    {
+      "summary": "Skimpy: A Replace for pandas.describe()",
+      "timestamp": "2024-04-08T21:49:12",
+      "link": "https://aeturrell.github.io/skimpy/"
+    },
+    {
+      "summary": "GraphViz: Python Package for Automatically Drawing Visualizations",
+      "timestamp": "2024-04-09T03:26:50",
+      "link": "https://graphviz.readthedocs.io/"
+    },
+    {
+      "summary": "Object Detection & Fashion AI Models",
+      "timestamp": "2024-04-09T05:26:39",
+      "link": "https://github.com/switchablenorms/DeepFashion2"
+    },
+    {
+      "summary": "Persian Speech AI Models",
+      "timestamp": "2024-04-09T05:54:33",
+      "link": "https://huggingface.co/m3hrdadfi/wav2vec2-large-xlsr-persian"
+    },
+    {
+      "summary": "CodeGemma model on Hugging Face",
+      "timestamp": "2024-04-09T22:43:29",
+      "link": "https://huggingface.co/blog/codegemma?latest"
+    },
+    {
+      "summary": "Knee Point Detection Library",
+      "timestamp": "2024-04-10T18:39:31",
+      "link": "https://kneed.readthedocs.io/en/stable/"
+    },
+    {
+      "summary": "Vercel Gemini AI Chatbot template",
+      "timestamp": "2024-04-10T21:52:18",
+      "link": "https://m.youtube.com/watch?si=zvOTEjnIE1gXEqr_&v=-N4yZ8KkY4o&feature=youtu.be"
+    },
+    {
+      "summary": "Fashion Try-On on Hugging Face Spaces",
+      "timestamp": "2024-04-11T04:01:50",
+      "link": "https://huggingface.co/spaces/tonyassi/fashion-try-on"
+    },
+    {
+      "summary": "NextJS 14.2 release",
+      "timestamp": "2024-04-12T01:33:38",
+      "link": "https://nextjs.org/blog/next-14-2"
+    },
+    {
+      "summary": "Private GPT Repository",
+      "timestamp": "2024-04-12T02:57:00",
+      "link": "https://github.com/zylon-ai/private-gpt"
+    },
+    {
+      "summary": "Ollama: Run Open-Source LLMs Locally",
+      "timestamp": "2024-04-12T20:43:05",
+      "link": "https://github.com/ollama/ollama"
+    },
+    {
+      "summary": "TorchTune: A Putorch Native Library for Easy Fine-Tuning LLMs",
+      "timestamp": "2024-04-17T07:52:13",
+      "link": "https://pytorch.org/blog/torchtune-fine-tune-llms/"
+    },
+    {
+      "summary": "Llama3 release",
+      "timestamp": "2024-04-18T22:21:40",
+      "link": "https://llama.meta.com/llama3/"
+    },
+    {
+      "summary": "Meta AI Platform",
+      "timestamp": "2024-04-18T22:29:02",
+      "link": "https://meta.ai"
+    },
+    {
+      "summary": "Llama3 GitHub repository",
+      "timestamp": "2024-04-18T22:50:18",
+      "link": "https://github.com/meta-llama/llama3"
+    },
+    {
+      "summary": "Llama Recipes",
+      "timestamp": "2024-04-18T22:50:25",
+      "link": "https://github.com/meta-llama/llama-recipes/tree/main/recipes"
+    },
+    {
+      "summary": "Hugging Chat API",
+      "timestamp": "2024-04-19T04:38:10",
+      "link": "https://github.com/Soulter/hugging-chat-api"
+    },
+    {
+      "summary": "OrpoLlama-3-8B on Hugging Face",
+      "timestamp": "2024-04-19T15:47:28",
+      "link": "https://colab.research.google.com/drive/1eHNWg9gnaXErdAa8_mcvjMupbSS6rDvi?usp=sharing"
+    },
+    {
+      "summary": "Starling LLM : RLHF + RLAIF LLM by Berkeley",
+      "timestamp": "2024-04-25T16:44:57",
+      "link": "https://starling.cs.berkeley.edu/"
+    },
+    {
+      "summary": "Microsoft's Quantized LLM",
+      "timestamp": "2024-04-24T22:49:15",
+      "link": "https://ollama.com/library/phi3"
+    },
+    {
+      "summary": "Persian Pre-Trained Llama2 Models",
+      "timestamp": "2024-04-24T23:41:31",
+      "link": "https://huggingface.co/AminHaghdadi/llama-2-7b-Persian"
+    },
+    {
+      "summary": "Torch RAG on AVA-Mistral-7B",
+      "timestamp": "2024-04-24T23:47:22",
+      "link": "https://www.youtube.com/watch?v=chcEgQxqqcY"
+    },
+    {
+      "summary": "MehdiHosseiniMoghadam's AVA Models",
+      "timestamp": "2024-04-24T23:55:00",
+      "link": "https://huggingface.co/MehdiHosseiniMoghadam/AVA-Llama-3-V2"
+    },
+    {
+      "summary": "Instruct vs Chat Fine-Tuned Models",
+      "timestamp": "2024-04-25T12:20:47",
+      "link": "https://community.aws/content/2ZVa61RxToXUFzcuY8Hbut6L150/what-is-an-instruct-model?lang=en"
+    }
+  ],
+  "Development Tools and Platforms": [
+    {
+      "summary": "Iwand Style website",
+      "timestamp": "2024-04-08T17:46:49",
+      "link": "https://iwand.style"
+    },
+    {
+      "summary": "Chatling AI",
+      "timestamp": "2024-04-08T23:43:38",
+      "link": "https://chatling.ai"
+    },
+    {
+      "summary": "Simon Brown's website and Structurizr",
+      "timestamp": "2024-04-09T03:20:52",
+      "link": "https://simonbrown.je/"
+    },
+    {
+      "summary": "UptimeRobot website monitoring service",
+      "timestamp": "2024-04-10T23:56:37",
+      "link": "https://uptimerobot.com/"
+    },
+    {
+      "summary": "SQLiteCloud and SQLime",
+      "timestamp": "2024-04-11T15:02:00",
+      "link": "https://docs.sqlitecloud.io"
+    },
+    {
+      "summary": "NextJS Ollama App",
+      "timestamp": "2024-04-14T22:20:37",
+      "link": "https://github.com/brunnolou/next-ollama-app"
+    },
+    {
+      "summary": "Online sheet into API",
+      "timestamp": "2024-04-15T19:27:34",
+      "link": "https://sheety.co/pricing"
+    },
+    {
+      "summary": "Quasar Framework Documentation",
+      "timestamp": "2024-04-17T15:49:16",
+      "link": "https://quasar.dev/docs"
+    },
+    {
+      "summary": "Vercel Ship Badge",
+      "timestamp": "2024-04-17T23:43:32",
+      "link": "https://vercel.fyi/ship-badge"
+    },
+    {
+      "summary": "Learn Pydantic",
+      "timestamp": "2024-04-12T01:59:44",
+      "link": "https://realpython.com/python-pydantic/"
+    },
+    {
+      "summary": "Obsidian",
+      "timestamp": "2024-04-12T06:52:46",
+      "link": "https://obsidian.md"
+    },
+    {
+      "summary": "Quartz",
+      "timestamp": "2024-04-12T06:54:13",
+      "link": "https://quartz.jzhao.xyz/"
+    },
+    {
+      "summary": "Publication-Quality Table Generation",
+      "timestamp": "2024-04-22T17:44:15",
+      "link": "https://github.com/posit-dev/great-tables"
+    },
+    {
+      "summary": "Awesome CTO list",
+      "timestamp": "2024-04-23T06:21:18",
+      "link": "https://github.com/kuchin/awesome-cto"
+    },
+    {
+      "summary": "LLMs Chatbot + API + 20$ Free",
+      "timestamp": "2024-04-23T14:54:20",
+      "link": "https://api.together.xyz"
+    },
+    {
+      "summary": "GSAP",
+      "timestamp": "2024-04-24T21:55:30",
+      "link": "https://gsap.com/"
+    },
+    {
+      "summary": "Ollama Official",
+      "timestamp": "2024-04-25T12:35:17",
+      "link": "https://github.com/ollama/ollama/blob/main/README.md#quickstart"
+    },
+    {
+      "summary": "Langchain Ollama Library",
+      "timestamp": "2024-04-25T12:37:13",
+      "link": "https://api.python.langchain.com/en/latest/llms/langchain_community.llms.ollama.Ollama.html"
+    },
+    {
+      "summary": "Langchain Ollama Embedings",
+      "timestamp": "2024-04-25T12:39:05",
+      "link": "https://python.langchain.com/docs/integrations/text_embedding/ollama/"
+    },
+    {
+      "summary": "LM Studio",
+      "timestamp": "2024-04-25T12:54:53",
+      "link": "https://lmstudio.ai/"
+    }
+  ],
+  "AI Agents and RAG": [
+    {
+      "summary": "Super Helpful Tutorial About RAG and AI Agents",
+      "timestamp": "2024-04-12T04:16:38",
+      "link": "https://youtu.be/ul0QsodYct4?si=2iiS_FzZwXsjIUuX"
+    },
+    {
+      "summary": "Crew AI",
+      "timestamp": "2024-04-12T14:01:18",
+      "link": "https://youtu.be/sPzc6hMg7So?si=3G6HRCKNYOqWZXeT"
+    },
+    {
+      "summary": "Langgraph RAG Agent Llama3 Local",
+      "timestamp": "2024-04-23T13:23:15",
+      "link": "https://m.youtube.com/watch?v=-ROS6gfYIts&feature=youtu.be"
+    },
+    {
+      "summary": "Ollama + RAG (LangChain + LlamaIndex) + NextJS + Streamlit Starter Projects",
+      "timestamp": "2024-04-23T22:38:07",
+      "link": "https://github.com/brunnolou/next-ollama-app"
+    }
+  ],
+  "Videos and Presentations": [
+    {
+      "summary": "Software Architecture for Developers",
+      "timestamp": "2024-04-09T03:20:52",
+      "link": "https://youtu.be/Ym9nhVZs89o?si=5kcRlGFxlbl-UJcH"
+    },
+    {
+      "summary": "Video about something",
+      "timestamp": "2024-04-10T22:18:08",
+      "link": "https://youtu.be/SPTfmiYiuok?si=Ecq-GlCmFbtIgU-D"
+    },
+    {
+      "summary": "Video about something",
+      "timestamp": "2024-04-11T17:33:48",
+      "link": "https://youtu.be/-kLs1NGt3ys?si=muOQWkmvYBlskxWC"
+    },
+    {
+      "summary": "Video about something",
+      "timestamp": "2024-04-11T18:04:28",
+      "link": "https://youtu.be/tGdsOXZpyWE?si=PbxuYdvXBB8yFY5N"
+    },
+    {
+      "summary": "Video about something",
+      "timestamp": "2024-04-11T20:42:25",
+      "link": "https://youtu.be/8hly31xKli0?si=t1DUVaZR7U_mRsh2"
+    },
+    {
+      "summary": "Video about something",
+      "timestamp": "2024-04-11T21:17:16",
+      "link": "https://youtu.be/GCoANs1jRC0?si=a5HOHLczzCehdHHJ"
+    },
+    {
+      "summary": "Video about something",
+      "timestamp": "2024-04-11T21:17:47",
+      "link": "https://youtu.be/0XFU-cPjYh0?si=r4h6BO1g-Z7M162K"
+    },
+    {
+      "summary": "Video about something",
+      "timestamp": "2024-04-11T21:18:01",
+      "link": "https://youtu.be/aN3-Yp_28rM?si=y-1CSOb8MDg3Mf0o"
+    },
+    {
+      "summary": "Video about something",
+      "timestamp": "2024-04-12T03:15:37",
+      "link": "https://youtu.be/8R7QOJgGyIQ?si=pwKcF5kaEYPh7ZN3"
+    },
+    {
+      "summary": "Remote Collaboration in Visual Studio Code",
+      "timestamp": "2024-04-12T20:41:33",
+      "link": "https://youtu.be/A2ceblXTBBc?si=u57PiKpjQ5WuXPld"
+    },
+    {
+      "summary": "Video about something",
+      "timestamp": "2024-04-18T23:16:29",
+      "link": "https://youtu.be/fFZBZJrnUIg?si=AF125lxBmCQxsuvj"
+    },
+    {
+      "summary": "Video about something",
+      "timestamp": "2024-04-19T04:38:55",
+      "link": "https://youtu.be/T_iE6TT7pS8?si=QtN3xljyWmkDDuDr"
+    },
+    {
+      "summary": "Video about something",
+      "timestamp": "2024-04-20T23:05:40",
+      "link": "https://m.youtube.com/watch?v=ztBJqzBU5kc&t=1s"
+    },
+    {
+      "summary": "Video about something",
+      "timestamp": "2024-04-23T13:23:15",
+      "link": "https://m.youtube.com/watch?v=-ROS6gfYIts&feature=youtu.be"
+    },
+    {
+      "summary": "Video about something",
+      "timestamp": "2024-04-23T22:38:07",
+      "link": "https://youtu.be/UwKGBvFldho?si=1PUQhK1CVCjZFJeo"
+    },
+    {
+      "summary": "Video about something",
+      "timestamp": "2024-04-24T10:52:18",
+      "link": "https://youtu.be/0CSyIBHQy9g"
+    },
+    {
+      "summary": "Video about something",
+      "timestamp": "2024-04-24T23:35:53",
+      "link": "https://youtu.be/3BnnsQCmgLo?si=KsrtqvJHKUuwCy52"
+    },
+    {
+      "summary": "Video about something",
+      "timestamp": "2024-04-25T13:13:26",
+      "link": "https://youtu.be/xa8pTD16SnM?si=iPdzxxzdnsksXcJx"
+    },
+    {
+      "summary": "Torch RAG on AVA-Mistral-7B",
+      "timestamp": "2024-04-24T23:47:22",
+      "link": "https://www.youtube.com/watch?v=chcEgQxqqcY"
+    }
+  ],
+  "UX and Design": [
+    {
+      "summary": "Laws of UX website in Farsi",
+      "timestamp": "2024-04-11T19:13:36",
+      "link": "https://lawsofux.com/fa/"
+    },
+    {
+      "summary": "Hick's Law",
+      "timestamp": "2024-04-25T15:54:00",
+      "link": "https://blog.hubspot.com/website/information-overload"
+    },
+    {
+      "summary": "Cognitive Biases",
+      "timestamp": "2024-04-25T15:57:12",
+      "link": "https://instapage.com/amp/cognitive-biases/"
+    }
+  ],
+  "Image Generation": [
+    {
+      "summary": "Pixverse AI",
+      "timestamp": "2024-04-11T04:45:49",
+      "link": "https://pixverse.ai/"
+    }
+  ],
+  "ADS-B": [
+    {
+      "summary": "Automatic Dependent Surveillance–Broadcast (ADS-B)",
+      "timestamp": "2024-04-12T20:49:29",
+      "link": "https://adsb.cool/"
+    }
+  ],
+  "Ollama": [
+    {
+      "summary": "Ollama Modelfile documentation",
+      "timestamp": "2024-04-25T20:19:01",
+      "link": "https://github.com/ollama/ollama/blob/main/docs/modelfile.md"
+    }
+  ],
+  "Next.js": [
+    {
+      "summary": "Next.js Server Actions documentation and video tutorial",
+      "timestamp": "2024-04-25T23:28:49",
+      "link": "https://youtu.be/dDpZfOQBMaU?si=EYi5Ci7_tBc8mPTZ"
+    },
+    {
+      "summary": "Next.js Production Checklist",
+      "timestamp": "2024-04-26T22:30:23",
+      "link": "https://nextjs.org/docs/app/building-your-application/deploying/production-checklist"
+    },
+    {
+      "summary": "Next.js Functions and Edge Functions documentation",
+      "timestamp": "2024-04-26T23:35:31",
+      "link": "https://nextjs.org/docs/app/api-reference/functions"
+    },
+    {
+      "summary": "Slots / Parallel Routes in Next.js",
+      "timestamp": "2024-04-27T02:14:50",
+      "link": "https://nextjs.org/docs/app/building-your-application/routing/parallel-routes"
+    },
+    {
+      "summary": "Intercepting Routes in Next.js",
+      "timestamp": "2024-04-27T02:29:01",
+      "link": "https://nextjs.org/docs/app/building-your-application/routing/intercepting-routes"
+    },
+    {
+      "summary": "Photo Gallery Modal Example using Next.js Prallel+Intercepting routes",
+      "timestamp": "2024-04-27T02:40:44",
+      "link": "https://github.com/vercel/nextgram"
+    },
+    {
+      "summary": "RSC Payloads in Next.js",
+      "timestamp": "2024-04-27T02:46:46",
+      "link": "https://nextjs.org/docs/app/building-your-application/rendering/server-components#what-is-the-react-server-component-payload-rsc"
+    },
+    {
+      "summary": "Inner-Page Layout & Multiple Root Layouts using Next.js Route Groups",
+      "timestamp": "2024-04-27T03:10:50",
+      "link": "https://nextjs.org/docs/app/building-your-application/routing/middleware"
+    },
+    {
+      "summary": "Next.js Route Handlers GET cached by default, Streaming Response, Og - Image Generation",
+      "timestamp": "2024-04-27T06:47:50",
+      "link": "https://nextjs.org/docs/app/building-your-application/routing/route-handlers"
+    },
+    {
+      "summary": "Next.js template with Pinecone and Vercel AI",
+      "timestamp": "2024-06-21T09:57:53",
+      "link": "https://vercel.com/templates/next.js/pinecone-vercel-ai"
+    }
+  ],
+  "Vercel": [
+    {
+      "summary": "Vercel AI SDK",
+      "timestamp": "2024-04-26T21:45:46",
+      "link": "https://sdk.vercel.ai/"
+    },
+    {
+      "summary": "Vercel's Edge Runtime documentation",
+      "timestamp": "2024-04-26T22:53:03",
+      "link": "https://edge-runtime.vercel.app/"
+    },
+    {
+      "summary": "Vercel Functions documentation",
+      "timestamp": "2024-04-26T23:01:27",
+      "link": "https://vercel.com/docs/functions"
+    },
+    {
+      "summary": "Vercel KV: Redis in Next.js documentation",
+      "timestamp": "2024-04-27T05:02:33",
+      "link": "https://vercel.com/docs/storage/vercel-kv/kv-reference"
+    },
+    {
+      "summary": "Vercel AI SDK 3.1 - Modelfusion joins the team",
+      "timestamp": "2024-05-02T23:48:09",
+      "link": "https://vercel.com/blog/vercel-ai-sdk-3-1-modelfusion-joins-the-team"
+    },
+    {
+      "summary": "Vercel AI SDK 3 - Generative UI",
+      "timestamp": "2024-05-08T06:49:56",
+      "link": "https://vercel.com/blog/ai-sdk-3-generative-ui"
+    },
+    {
+      "summary": "Introducing Vercel AI SDK 3.2",
+      "timestamp": "2024-06-21T18:58:59",
+      "link": "https://vercel.com/blog/introducing-vercel-ai-sdk-3-2"
+    },
+    {
+      "summary": "Composable AI for Ecommerce: Hands-on with Vercel's AI SDK",
+      "timestamp": "2024-06-28T05:22:43",
+      "link": "https://vercel.com/blog/composable-ai-for-ecommerce-hands-on-with-vercels-ai-sdk"
+    }
+  ],
+  "TailwindCSS": [
+    {
+      "summary": "TailwindCSS Animate package",
+      "timestamp": "2024-04-27T01:14:30",
+      "link": "https://www.npmjs.com/package/tailwindcss-animate"
+    }
+  ],
+  "Python in JS": [
+    {
+      "summary": "Import Python Libraries in JS using pymport",
+      "timestamp": "2024-04-27T05:39:08",
+      "link": "https://www.npmjs.com/package/pymport"
+    },
+    {
+      "summary": "Pandas-like Package in JS - Danfo.js",
+      "timestamp": "2024-04-27T05:42:10",
+      "link": "https://danfo.jsdata.org/"
+    },
+    {
+      "summary": "Using danfo.js in React examples",
+      "timestamp": "2024-04-27T05:44:31",
+      "link": "https://danfo.jsdata.org/examples/using-danfojs-in-react"
+    }
+  ],
+  "Web Push Notifications": [
+    {
+      "summary": "Web-Push Notification Server & Client Implementation",
+      "timestamp": "2024-04-27T06:16:27",
+      "link": "https://embeddedinn.com/articles/tutorial/Building-a-barebones-web-push-server/"
+    }
+  ],
+  "Bloom Filters": [
+    {
+      "summary": "Screen Data with Bloom Filters",
+      "timestamp": "2024-04-27T06:22:57",
+      "link": "https://en.wikipedia.org/wiki/Bloom_filter"
+    }
+  ],
+  "Array Methods": [
+    {
+      "summary": "Check Existance with .some() method in JS",
+      "timestamp": "2024-04-27T06:28:14",
+      "link": "https://dev.to/smpnjn/javascript-array-some-method-1bna"
+    }
+  ],
+  "Serverless Functions": [
+    {
+      "summary": "Server Functions vs. Edge Functions (V8 isolates like CloudFlare workers)",
+      "timestamp": "2024-04-27T07:03:13",
+      "link": "https://youtu.be/vzWiSF0y4Wo?si=m-2xP5EllWy9JccN"
+    }
+  ],
+  "Image Optimization": [
+    {
+      "summary": "Sharp: Image Optimization",
+      "timestamp": "2024-04-27T07:20:37",
+      "link": "https://sharp.pixelplumbing.com/install#linux-memory-allocator"
+    }
+  ],
+  "Cloudflare": [
+    {
+      "summary": "Next.js on Cloudflare Pages",
+      "timestamp": "2024-04-27T07:29:34",
+      "link": "https://blog.cloudflare.com/next-on-pages"
+    }
+  ],
+  "LlamaIndex": [
+    {
+      "summary": "Tutorials Shared by LlamaIndex",
+      "timestamp": "2024-04-28T00:04:21",
+      "link": "https://medium.com/@marco.bertelli/build-a-complete-opensource-llm-rag-qa-chatbot-an-in-depth-journey-introduction-c630b16c330c"
+    },
+    {
+      "summary": "Apple Unveils Their Secrets",
+      "timestamp": "2024-04-28T00:09:08",
+      "link": "https://xaiguy.substack.com/p/apple-unveils-their-secrets"
+    },
+    {
+      "summary": "LlamaIndex Ollama Examples",
+      "timestamp": "2024-04-28T00:59:29",
+      "link": "https://llamabox.eu/2024/02/10/summarization-with-llamaindex-and-ollama.html"
+    },
+    {
+      "summary": "Using Langchain for Question Answering on Own Data",
+      "timestamp": "2024-04-29T22:52:43",
+      "link": "https://medium.com/@onkarmishra/using-langchain-for-question-answering-on-own-data-3af0a82789ed"
+    },
+    {
+      "summary": "Next.js template with Pinecone and Vercel AI",
+      "timestamp": "2024-06-21T09:57:53",
+      "link": "https://vercel.com/templates/next.js/pinecone-vercel-ai"
+    },
+    {
+      "summary": "Langchain and Qdrant integration",
+      "timestamp": "2024-06-21T10:10:47",
+      "link": "https://js.langchain.com/v0.2/docs/integrations/vectorstores/qdrant/"
+    },
+    {
+      "summary": "Qdrant and Langchain integration",
+      "timestamp": "2024-06-21T10:13:05",
+      "link": "https://qdrant.tech/documentation/frameworks/langchain/"
+    },
+    {
+      "summary": "Next.js Langchain RAG Ollama example",
+      "timestamp": "2024-06-21T10:15:37",
+      "link": "https://github.com/brunnolou/next-langchain-rag-ollama"
+    },
+    {
+      "summary": "Langchain Next.js template",
+      "timestamp": "2024-06-21T10:16:58",
+      "link": "https://github.com/langchain-ai/langchain-nextjs-template"
+    },
+    {
+      "summary": "Imagine having a conversation with your favorite",
+      "timestamp": "2024-07-01T11:01:31",
+      "link": "https://www.linkedin.com/posts/qdrant_imagine-having-a-conversation-with-your-favorite-activity-7213400340665176065-hhoq?utm_source=share&utm_medium=member_ios"
+    }
+  ],
+  "FastAPI": [
+    {
+      "summary": "FastAPI Tips",
+      "timestamp": "2024-04-28T21:41:14",
+      "link": "https://github.com/kludex/fastapi-tips"
+    },
+    {
+      "summary": "Streaming LLM responses using FastAPI",
+      "timestamp": "2024-06-21T19:30:42",
+      "link": "https://stackademic.com/blog/streaming-llm-responses-using-fastapi-deb575554397"
+    }
+  ],
+  "FlowiseAI": [
+    {
+      "summary": "FlowiseAI documentation",
+      "timestamp": "2024-04-28T21:50:08",
+      "link": "https://docs.flowiseai.com"
+    }
+  ],
+  "Langflow": [
+    {
+      "summary": "Langflow",
+      "timestamp": "2024-04-29T13:01:42",
+      "link": "https://www.langflow.org/"
+    },
+    {
+      "summary": "Langflow",
+      "timestamp": "2024-06-25T15:34:46",
+      "link": "https://www.langflow.org"
+    }
+  ],
+  "Elastic Stack": [
+    {
+      "summary": "Beginners Crash Course to Elastic Stack Series Table of Contents",
+      "timestamp": "2024-05-02T01:36:26",
+      "link": "https://github.com/LisaHJung/Beginners-Crash-Course-to-Elastic-Stack-Series-Table-of-Contents"
+    }
+  ],
+  "UI Libraries": [
+    {
+      "summary": "Magic UI Design",
+      "timestamp": "2024-05-03T00:55:16",
+      "link": "https://magicui.design"
+    },
+    {
+      "summary": "Radix UI",
+      "timestamp": "2024-05-03T20:14:54",
+      "link": "https://www.radix-ui.com/"
+    },
+    {
+      "summary": "Sonner Toast",
+      "timestamp": "2024-05-03T20:58:04",
+      "link": "https://sonner.emilkowal.ski/"
+    },
+    {
+      "summary": "Radix UI Primitives",
+      "timestamp": "2024-06-24T21:34:16",
+      "link": "https://www.radix-ui.com/primitives/docs/overview/introduction"
+    },
+    {
+      "summary": "Hover Dev",
+      "timestamp": "2024-06-24T23:24:54",
+      "link": "https://www.hover.dev/"
+    }
+  ],
+  "Speech to Text": [
+    {
+      "summary": "Vosk: Speech To Text Toolkit",
+      "timestamp": "2024-06-03T16:08:44",
+      "link": "https://alphacephei.com/vosk/"
+    }
+  ],
+  "Authentication": [
+    {
+      "summary": "Next.js Authentication with NextAuth, Prisma, and Postgres",
+      "timestamp": "2024-06-05T20:23:04",
+      "link": "https://medium.com/@rabin.nyaundi254/nextjs-authentication-with-nextauth-prisma-an-postgres-7d55b14e68ad"
+    }
+  ],
+  "Web Streams API": [
+    {
+      "summary": "The best available online resource explaining the new Web Streams API",
+      "timestamp": "2024-06-22T03:36:31",
+      "link": "https://www.jasnell.me/posts/webstreams"
+    },
+    {
+      "summary": "Web Streams API",
+      "timestamp": "2024-06-22T03:50:33",
+      "link": "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API"
+    }
+  ],
+  "Semantic Image Search": [
+    {
+      "summary": "Semantic Image Search",
+      "timestamp": "2024-06-22T19:39:31",
+      "link": "https://semantic-image-search.vercel.app"
+    }
+  ],
+  "Git": [
+    {
+      "summary": "Fix the Case Insensitivity Git Issue on MacOS",
+      "timestamp": "2024-04-28T09:03:53",
+      "link": null
+    }
+  ],
+  "PM2": [
+    {
+      "summary": "clustered pm2 (Multiple Instances) ./ is tricky important!",
+      "timestamp": "2024-06-21T18:07:29",
+      "link": null
+    }
+  ],
+  "AI/ML Models and Frameworks": [
+    {
+      "summary": "Langchain HippoRag: Neurobiologically Inspired Long-Term Activity",
+      "timestamp": "2024-07-01T11:02:35",
+      "link": "https://www.linkedin.com/posts/langchain_hipporag-neurobiologically-inspired-long-term-activity-7213232333984784384-whc_?utm_source=share&utm_medium=member_ios"
+    },
+    {
+      "summary": "Jan.ai: Platform for AI models",
+      "timestamp": "2024-07-03T18:10:46",
+      "link": "https://jan.ai"
+    },
+    {
+      "summary": "Llama API",
+      "timestamp": "2024-07-03T18:11:09",
+      "link": "https://www.llama-api.com"
+    },
+    {
+      "summary": "Dorna-Llama3-8B-Instruct model on Hugging Face",
+      "timestamp": "2024-07-03T20:51:28",
+      "link": "https://huggingface.co/PartAI/Dorna-Llama3-8B-Instruct"
+    },
+    {
+      "summary": "Dorna-Llama3-8B-Instruct-GGUF model on Hugging Face",
+      "timestamp": "2024-07-03T21:07:21",
+      "link": "https://huggingface.co/PartAI/Dorna-Llama3-8B-Instruct-GGUF"
+    },
+    {
+      "summary": "Dorna-Llama3 model on Ollama",
+      "timestamp": "2024-07-03T23:43:45",
+      "link": "https://ollama.com/partai/dorna-llama3"
+    },
+    {
+      "summary": "TookaBERT-Base model on Hugging Face",
+      "timestamp": "2024-07-04T00:06:05",
+      "link": "https://huggingface.co/PartAI/TookaBERT-Base"
+    },
+    {
+      "summary": "PartAI's Hugging Face page",
+      "timestamp": "2024-07-04T00:13:20",
+      "link": "https://huggingface.co/PartAI"
+    },
+    {
+      "summary": "TookaBERT-Large model on Hugging Face",
+      "timestamp": "2024-07-04T00:13:21",
+      "link": "https://huggingface.co/PartAI/TookaBERT-Large"
+    },
+    {
+      "summary": "WebLLM",
+      "timestamp": "2024-07-04T04:01:27",
+      "link": "https://webllm.mlc.ai"
+    },
+    {
+      "summary": "Gilas.io Models",
+      "timestamp": "2024-07-12T04:08:22",
+      "link": "https://gilas.io/models/"
+    },
+    {
+      "summary": "Apple Foundation Models",
+      "timestamp": "2024-07-29T22:33:44",
+      "link": "https://machinelearning.apple.com/research/introducing-apple-foundation-models"
+    },
+    {
+      "summary": "GPT-4o Mini: Advancing Cost-Efficient Intelligence",
+      "timestamp": "2024-07-19T00:13:13",
+      "link": "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/"
+    },
+    {
+      "summary": "MindSearch: Build your own mindsearch",
+      "timestamp": "2024-07-30T20:24:06",
+      "link": "https://github.com/InternLM/MindSearch?tab=readme-ov-file#%EF%B8%8F-build-your-own-mindsearch"
+    }
+  ],
+  "AI Safety and Ethics": [
+    {
+      "summary": "Together AI Safety Models",
+      "timestamp": "2024-07-23T22:44:45",
+      "link": "https://www.together.ai/blog/safety-models"
+    },
+    {
+      "summary": "Meta's Trust and Safety page",
+      "timestamp": "2024-07-23T23:45:31",
+      "link": "https://llama.meta.com/trust-and-safety/"
+    },
+    {
+      "summary": "Building Consumer Trust in AI",
+      "timestamp": "2024-08-01T16:40:06",
+      "link": "https://www.cognizant.com/us/en/insights/insights-blog/building-consumer-trust-in-ai-wf2729750"
+    },
+    {
+      "summary": "Artificial Intelligence Consumer Sentiment",
+      "timestamp": "2024-08-01T16:20:57",
+      "link": "https://www.forbes.com/advisor/business/artificial-intelligence-consumer-sentiment/"
+    }
+  ],
+  "AI Development and Tools": [
+    {
+      "summary": "Top 12 Git Commands Every Developer Must Know",
+      "timestamp": "2024-07-03T03:13:43",
+      "link": "https://github.blog/2024-06-10-top-12-git-commands-every-developer-must-know/"
+    },
+    {
+      "summary": "LLM Guard",
+      "timestamp": "2024-07-11T15:01:32",
+      "link": "https://llm-guard.com"
+    },
+    {
+      "summary": "PDF Chat AI on GitHub",
+      "timestamp": "2024-07-11T15:34:42",
+      "link": "https://github.com/rajeshdavidbabu/pdf-chat-ai"
+    },
+    {
+      "summary": "Reactronica",
+      "timestamp": "2024-07-11T21:05:39",
+      "link": "https://reactronica.com"
+    },
+    {
+      "summary": "TalkBot API Documentation",
+      "timestamp": "2024-07-12T04:08:22",
+      "link": "https://talkbot.ir/api-dcumentation"
+    },
+    {
+      "summary": "Buy OpenAI API from Avalai Platform",
+      "timestamp": "2024-07-12T04:08:22",
+      "link": "https://avalai.ir/blog/buy-api-openai-from-avalai-platform/"
+    },
+    {
+      "summary": "@imgly/background-removal-node on npm",
+      "timestamp": "2024-07-12T07:31:03",
+      "link": "https://www.npmjs.com/package/@imgly/background-removal-node"
+    },
+    {
+      "summary": "Removerized on GitHub",
+      "timestamp": "2024-07-12T07:37:59",
+      "link": "https://github.com/yossTheDev/removerized?tab=readme-ov-file"
+    },
+    {
+      "summary": "@t3-oss/env-nextjs on npm",
+      "timestamp": "2024-07-12T17:29:16",
+      "link": "https://www.npmjs.com/package/@t3-oss/env-nextjs"
+    },
+    {
+      "summary": "React Hook Form",
+      "timestamp": "2024-07-12T17:29:20",
+      "link": "https://www.react-hook-form.com"
+    },
+    {
+      "summary": "NEXT REST Framework",
+      "timestamp": "2024-07-12T23:25:58",
+      "link": "https://next-rest-framework.vercel.app/docs/api-reference"
+    },
+    {
+      "summary": "Neon.tech",
+      "timestamp": "2024-07-16T01:27:49",
+      "link": "https://neon.tech"
+    },
+    {
+      "summary": "Morphic on GitHub",
+      "timestamp": "2024-07-17T02:02:40",
+      "link": "https://github.com/miurla/morphic"
+    },
+    {
+      "summary": "Loading.io",
+      "timestamp": "2024-07-21T05:10:58",
+      "link": "https://loading.io"
+    },
+    {
+      "summary": "AnimatedIcons.co",
+      "timestamp": "2024-07-21T05:12:06",
+      "link": "https://animatedicons.co"
+    },
+    {
+      "summary": "react-content-loader on npm",
+      "timestamp": "2024-07-21T22:28:47",
+      "link": "https://www.npmjs.com/package/react-content-loader"
+    },
+    {
+      "summary": "CopilotKit Documentation",
+      "timestamp": "2024-07-21T22:28:47",
+      "link": "https://docs.copilotkit.ai/"
+    },
+    {
+      "summary": "EDA-GPT on GitHub",
+      "timestamp": "2024-07-22T20:34:14",
+      "link": "https://github.com/shaunthecomputerscientist/EDA-GPT.git"
+    },
+    {
+      "summary": "TypeAI on GitHub",
+      "timestamp": "2024-07-23T23:49:14",
+      "link": "https://github.com/TypeAI-dev/typeai"
+    },
+    {
+      "summary": "EvalKit Documentation",
+      "timestamp": "2024-07-23T23:50:50",
+      "link": "https://docs.evalkit.ai/introduction"
+    },
+    {
+      "summary": "LangUI",
+      "timestamp": "2024-07-24T17:10:20",
+      "link": "https://www.langui.dev"
+    },
+    {
+      "summary": "Rapidapp.io: Building DevOps AI Assistant with Langchain, Ollama, and PostgreSQL",
+      "timestamp": "2024-07-28T10:53:16",
+      "link": "https://docs.rapidapp.io/blog/building-devops-ai-assistant-with-langchain-ollama-and-postgresql"
+    },
+    {
+      "summary": "ScrapingBee",
+      "timestamp": "2024-07-29T11:40:41",
+      "link": "https://www.scrapingbee.com"
+    },
+    {
+      "summary": "Table Images to JSON on GitHub",
+      "timestamp": "2024-07-29T12:25:30",
+      "link": "https://github.com/Photon48/Table-Images-to-JSON"
+    },
+    {
+      "summary": "Serie on GitHub",
+      "timestamp": "2024-07-29T16:35:36",
+      "link": "https://github.com/lusingander/serie"
+    },
+    {
+      "summary": "GPT Researcher on GitHub",
+      "timestamp": "2024-07-30T23:24:30",
+      "link": "https://github.com/assafelovic/gpt-researcher"
+    },
+    {
+      "summary": "Deepgram Developers Documentation",
+      "timestamp": "2024-08-02T11:50:38",
+      "link": "https://developers.deepgram.com/docs/introduction"
+    },
+    {
+      "summary": "Deepgram",
+      "timestamp": "2024-08-02T11:50:53",
+      "link": "https://deepgram.com"
+    },
+    {
+      "summary": "VectorMind.io",
+      "timestamp": "2024-08-02T12:51:33",
+      "link": "https://vectormind.io"
+    },
+    {
+      "summary": "Jina AI",
+      "timestamp": "2024-08-03T02:52:02",
+      "link": "https://jina.ai"
+    },
+    {
+      "summary": "Vercel AI SDK Stream Protocol",
+      "timestamp": "2024-08-03T08:04:19",
+      "link": "https://sdk.vercel.ai/docs/ai-sdk-ui/stream-protocol#data-stream-protocol"
+    },
+    {
+      "summary": "ImagineAPI.dev",
+      "timestamp": "2024-08-03T08:12:22",
+      "link": "https://www.imagineapi.dev/"
+    },
+    {
+      "summary": "Agentic on GitHub",
+      "timestamp": "2024-08-03T08:12:22",
+      "link": "https://github.com/transitive-bullshit/agentic?tab=readme-ov-file"
+    },
+    {
+      "summary": "Browserbase JS SDK - Vercel AI SDK Integration",
+      "timestamp": "2024-08-03T08:12:27",
+      "link": "https://github.com/browserbase/js-sdk?tab=readme-ov-file#vercel-ai-sdk-integration"
+    },
+    {
+      "summary": "Meilisearch",
+      "timestamp": "2024-08-03T13:01:54",
+      "link": "https://www.meilisearch.com"
+    },
+    {
+      "summary": "Omniplex on GitHub",
+      "timestamp": "2024-08-04T15:56:43",
+      "link": "https://github.com/Omniplex-ai/omniplex"
+    },
+    {
+      "summary": "Floating UI",
+      "timestamp": "2024-08-05T04:18:51",
+      "link": "https://floating-ui.com/"
+    },
+    {
+      "summary": "CatVTON on GitHub",
+      "timestamp": "2024-08-05T10:00:56",
+      "link": "https://github.com/zheng-chong/catvton"
+    },
+    {
+      "summary": "LivePortrait Changelog",
+      "timestamp": "2024-08-05T12:32:51",
+      "link": "https://github.com/KwaiVGI/LivePortrait/blob/main/assets/docs/changelog/2024-08-02.md"
+    },
+    {
+      "summary": "Gradio",
+      "timestamp": "2024-08-05T12:36:00",
+      "link": "https://www.gradio.app"
+    }
+  ],
+  "Langchain": [
+    {
+      "summary": "Improving Core Tool Interfaces and Docs in Langchain",
+      "timestamp": "2024-07-18T23:33:18",
+      "link": "https://blog.langchain.dev/improving-core-tool-interfaces-and-docs-in-langchain/"
+    },
+    {
+      "summary": "Langchain JS and Python Chat Model Universal Init",
+      "timestamp": "2024-07-25T21:32:04",
+      "link": "https://js.langchain.com/v0.2/docs/how_to/chat_models_universal_init/"
+    },
+    {
+      "summary": "Langchain JS and Python Chat Model Universal Init",
+      "timestamp": "2024-07-25T21:32:04",
+      "link": "https://python.langchain.com/v0.2/docs/how_to/chat_models_universal_init/"
+    },
+    {
+      "summary": "Few-Shot Prompting to Improve Tool Calling Performance",
+      "timestamp": "2024-07-26T18:56:19",
+      "link": "https://blog.langchain.dev/few-shot-prompting-to-improve-tool-calling-performance/"
+    }
+  ],
+  "Prompt Engineering": [
+    {
+      "summary": "Llama 3 Prompt Engineering",
+      "timestamp": "2024-07-23T21:08:53",
+      "link": "https://sdk.vercel.ai/docs/guides/llama-3_1"
+    },
+    {
+      "summary": "Llama Prompting Guide",
+      "timestamp": "2024-07-23T21:19:47",
+      "link": "https://llama.meta.com/docs/how-to-guides/prompting/"
+    },
+    {
+      "summary": "Llama 3 Prompt Engineering Notebook",
+      "timestamp": "2024-07-23T21:20:30",
+      "link": "https://github.com/amitsangani/Llama/blob/main/Llama_3_Prompt_Engineering.ipynb"
+    },
+    {
+      "summary": "Prompting Techniques",
+      "timestamp": "2024-07-27T22:07:03",
+      "link": "https://www.promptingguide.ai/techniques"
+    },
+    {
+      "summary": "AI Prompt Engineering Tutorial",
+      "timestamp": "2024-07-27T22:21:03",
+      "link": "https://www.hostinger.com/tutorials/ai-prompt-engineering"
+    },
+    {
+      "summary": "OpenAI Prompt Generation guide",
+      "timestamp": "2024-10-11T20:22:10",
+      "link": "https://platform.openai.com/docs/guides/prompt-generation"
+    },
+    {
+      "summary": "PromptLayer website",
+      "timestamp": "2024-10-11T20:39:54",
+      "link": "https://www.promptlayer.com"
+    },
+    {
+      "summary": "Promptfoo GitHub repository",
+      "timestamp": "2024-10-11T20:40:34",
+      "link": "https://github.com/promptfoo/promptfoo"
+    },
+    {
+      "summary": "Vellum AI Prompt Engineering",
+      "timestamp": "2024-10-11T20:41:15",
+      "link": "https://www.vellum.ai/products/prompt-engineering"
+    },
+    {
+      "summary": "Prompt Engineering GitHub repository",
+      "timestamp": "2024-10-13T04:52:44",
+      "link": "https://github.com/NirDiamant/Prompt_Engineering"
+    }
+  ],
+  "Chatbots and Conversational AI": [
+    {
+      "summary": "Conversational AI Chatbot Architecture Overview",
+      "timestamp": "2024-07-12T23:08:59",
+      "link": "https://blog.qburst.com/2020/09/conversational-ai-chatbot-architecture-overview/"
+    },
+    {
+      "summary": "Conversational UI: How to Create a Brisk Human-Machine Dialogue",
+      "timestamp": "2024-07-13T00:27:40",
+      "link": "https://www.eleken.co/blog-posts/conversational-ui-how-to-create-a-brisk-human-machine-dialogue"
+    },
+    {
+      "summary": "Consumer Chatbot Perceptions",
+      "timestamp": "2024-07-26T15:37:44",
+      "link": "https://www.userlike.com/en/blog/consumer-chatbot-perceptions"
+    },
+    {
+      "summary": "Chatbot Statistics",
+      "timestamp": "2024-07-26T15:58:47",
+      "link": "https://www.dashly.io/blog/chatbot-statistics/"
+    }
+  ],
+  "RAG": [
+    {
+      "summary": "Advanced RAG",
+      "timestamp": "2024-07-26T19:06:59",
+      "link": "https://weaviate.io/blog/advanced-rag"
+    }
+  ],
+  "AI in Business and Marketing": [
+    {
+      "summary": "Pragmatist's Guide to GenAI in E-commerce",
+      "timestamp": "2024-07-27T13:59:52",
+      "link": "https://www.bcg.com/publications/2024/pragmatists-guide-to-genai-in-ecommerce"
+    },
+    {
+      "summary": "AI Content Marketing Report",
+      "timestamp": "2024-07-29T12:18:17",
+      "link": "https://www.semrush.com/goodcontent/ai-content-marketing-report/"
+    }
+  ],
+  "Search and Indexing": [
+    {
+      "summary": "Open Perplex",
+      "timestamp": "2024-08-04T11:54:40",
+      "link": "https://openperplex.com/"
+    }
+  ],
+  "Web Development": [
+    {
+      "summary": "codegpt.co",
+      "timestamp": "2024-08-06T18:30:53",
+      "link": "https://codegpt.co"
+    },
+    {
+      "summary": "mantine.dev",
+      "timestamp": "2024-08-07T22:45:54",
+      "link": "https://mantine.dev"
+    },
+    {
+      "summary": "minwork.gitbook.io/long-press-hook",
+      "timestamp": "2024-08-09T14:14:43",
+      "link": "https://minwork.gitbook.io/long-press-hook"
+    },
+    {
+      "summary": "vercel.com/blog/latency-numbers-every-web-developer-should-know",
+      "timestamp": "2024-08-16T01:50:46",
+      "link": "https://vercel.com/blog/latency-numbers-every-web-developer-should-know"
+    },
+    {
+      "summary": "github.com/itsjunetime/tdf",
+      "timestamp": "2024-08-16T12:24:57",
+      "link": "https://github.com/itsjunetime/tdf"
+    },
+    {
+      "summary": "github.com/hiett/serverless-redis-http.git",
+      "timestamp": "2024-08-27T23:39:13",
+      "link": "https://github.com/hiett/serverless-redis-http.git"
+    },
+    {
+      "summary": "upstash.com/docs/redis/features/restapi",
+      "timestamp": "2024-08-27T23:39:31",
+      "link": "https://upstash.com/docs/redis/features/restapi"
+    },
+    {
+      "summary": "vercel.com/docs/storage/vercel-kv/kv-reference",
+      "timestamp": "2024-08-27T23:41:42",
+      "link": "https://vercel.com/docs/storage/vercel-kv/kv-reference"
+    },
+    {
+      "summary": "vercel.com/docs/storage/vercel-postgres",
+      "timestamp": "2024-08-27T23:41:56",
+      "link": "https://vercel.com/docs/storage/vercel-postgres"
+    },
+    {
+      "summary": "www.npmjs.com/package/%40use-gesture/react",
+      "timestamp": "2024-08-25T20:47:12",
+      "link": "https://www.npmjs.com/package/%40use-gesture/react"
+    },
+    {
+      "summary": "sciactive.github.io/tinygesture/",
+      "timestamp": "2024-08-25T20:47:44",
+      "link": "https://sciactive.github.io/tinygesture/"
+    },
+    {
+      "summary": "www.npmjs.com/package/%40studio-freight/react-lenis?t&utm_source=perplexity",
+      "timestamp": "2024-09-01T23:38:11",
+      "link": "https://www.npmjs.com/package/%40studio-freight/react-lenis?t&utm_source=perplexity"
+    },
+    {
+      "summary": "www.react.tours",
+      "timestamp": "2024-09-02T04:13:46",
+      "link": "https://www.react.tours"
+    },
+    {
+      "summary": "react-joyride.com",
+      "timestamp": "2024-09-02T04:13:46",
+      "link": "https://react-joyride.com"
+    },
+    {
+      "summary": "react-responsive-carousel.js.org",
+      "timestamp": "2024-09-02T04:16:44",
+      "link": "http://react-responsive-carousel.js.org"
+    },
+    {
+      "summary": "developer.apple.com/videos/accessibility-inclusion/",
+      "timestamp": "2024-09-04T15:57:20",
+      "link": "https://developer.apple.com/videos/accessibility-inclusion/"
+    },
+    {
+      "summary": "Link to emilkowal.ski/ui/the-magic-of-clip-path",
+      "timestamp": "2024-11-04T14:07:55",
+      "link": "https://emilkowal.ski/ui/the-magic-of-clip-path"
+    },
+    {
+      "summary": "Link to excalidraw.com",
+      "timestamp": "2024-11-05T05:04:58",
+      "link": "https://excalidraw.com"
+    },
+    {
+      "summary": "Link to chromewebstore google cors",
+      "timestamp": "2024-11-22T00:53:09",
+      "link": "https://chromewebstore.google.com/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf"
+    },
+    {
+      "summary": "Link to mrvautin.com",
+      "timestamp": "2024-11-22T13:58:37",
+      "link": "https://mrvautin.com/deploying-your-nextjs-website-without-any-downtime/"
+    },
+    {
+      "summary": "Link to react-window.vercel.app",
+      "timestamp": "2024-11-24T09:56:30",
+      "link": "https://react-window.vercel.app/#/examples/list/fixed-size"
+    },
+    {
+      "summary": "Link to react-swipeable-tabs npm package",
+      "timestamp": "2024-11-24T09:56:30",
+      "link": "https://www.npmjs.com/package/react-swipeable-tabs"
+    },
+    {
+      "summary": "Link to react-modal-sheet on GitHub",
+      "timestamp": "2024-12-06T23:01:44",
+      "link": "https://github.com/Temzasse/react-modal-sheet?tab=readme-ov-file"
+    },
+    {
+      "summary": "Link to react-spring.bottom-sheet.dev",
+      "timestamp": "2024-12-08T10:32:19",
+      "link": "https://react-spring.bottom-sheet.dev"
+    },
+    {
+      "summary": "Link to awesome-cursorrules on GitHub",
+      "timestamp": "2024-12-10T00:40:38",
+      "link": "https://github.com/PatrickJS/awesome-cursorrules"
+    },
+    {
+      "summary": "Link to dotcursorrules.com",
+      "timestamp": "2024-12-10T00:40:42",
+      "link": "https://dotcursorrules.com/"
+    },
+    {
+      "summary": "Link to flappybird.v0.build and tetris.v0.build",
+      "timestamp": "2024-12-10T14:54:23",
+      "link": "https://flappybird.v0.build"
+    },
+    {
+      "summary": "Link to tetris.v0.build",
+      "timestamp": "2024-12-10T14:54:23",
+      "link": "https://tetris.v0.build"
+    },
+    {
+      "summary": "Link to v0.dev chat",
+      "timestamp": "2024-12-10T14:54:35",
+      "link": "https://v0.dev/chat/IL4UTuZGmly?b=b_pUUe2soccSv"
+    },
+    {
+      "summary": "Link to decktopus.com",
+      "timestamp": "2024-12-14T13:31:46",
+      "link": "https://www.decktopus.com"
+    },
+    {
+      "summary": "Link to LinkedIn post about React 19 and Next.js forms",
+      "timestamp": "2024-12-20T00:39:27",
+      "link": "https://www.linkedin.com/posts/leeerob_demo-of-forms-with-react-19-and-nextjs-ugcPost-7275646627653042177-_1XI?utm_source=share&utm_medium=member_ios"
+    }
+  ],
+  "AI/ML": [
+    {
+      "summary": "huggingface.co/spaces/ParsBench/leaderboard",
+      "timestamp": "2024-08-07T10:26:09",
+      "link": "https://huggingface.co/spaces/ParsBench/leaderboard"
+    },
+    {
+      "summary": "www.alibabacloud.com/en/solutions/generative-ai/qwen",
+      "timestamp": "2024-08-07T13:04:44",
+      "link": "https://www.alibabacloud.com/en/solutions/generative-ai/qwen"
+    },
+    {
+      "summary": "www.rungalileo.io/hallucinationindex",
+      "timestamp": "2024-08-07T13:06:43",
+      "link": "https://www.rungalileo.io/hallucinationindex"
+    },
+    {
+      "summary": "blog.langchain.dev/langgraph-studio-the-first-agent-ide/",
+      "timestamp": "2024-08-09T01:08:43",
+      "link": "https://blog.langchain.dev/langgraph-studio-the-first-agent-ide/"
+    },
+    {
+      "summary": "jaykmody.com/blog/gpt-from-scratch/?s=09",
+      "timestamp": "2024-08-15T23:58:02",
+      "link": "https://jaykmody.com/blog/gpt-from-scratch/?s=09"
+    },
+    {
+      "summary": "docs.together.ai/docs/data-analyst-agent",
+      "timestamp": "2024-08-16T00:17:54",
+      "link": "https://docs.together.ai/docs/data-analyst-agent"
+    },
+    {
+      "summary": "e2b.dev",
+      "timestamp": "2024-08-16T00:21:03",
+      "link": "https://e2b.dev"
+    },
+    {
+      "summary": "AI/ML Resources and Questions",
+      "timestamp": "2024-08-16T01:20:46",
+      "link": "https://colab.research.google.com/github/Nyandwi/machine_learning_complete/blob/main/0_python_for_ml/intro_to_python.ipynb#scrollTo=9-vGtxIWCOEc"
+    },
+    {
+      "summary": "www.masteringllm.com/course/llm-interview-questions-and-answers",
+      "timestamp": "2024-08-18T10:00:30",
+      "link": "https://www.masteringllm.com/course/llm-interview-questions-and-answers"
+    },
+    {
+      "summary": "vercel.com/docs/integrations/ai/openai",
+      "timestamp": "2024-08-18T21:07:46",
+      "link": "https://vercel.com/docs/integrations/ai/openai"
+    },
+    {
+      "summary": "vercel.com/templates/ai",
+      "timestamp": "2024-08-18T21:11:15",
+      "link": "https://vercel.com/templates/ai"
+    },
+    {
+      "summary": "vercel.com/templates/next.js/ai-emoji-generator",
+      "timestamp": "2024-08-18T21:11:35",
+      "link": "https://vercel.com/templates/next.js/ai-emoji-generator"
+    },
+    {
+      "summary": "vercel.com/templates/next.js/nextjs-openai-doc-search-starter",
+      "timestamp": "2024-08-18T21:12:06",
+      "link": "https://vercel.com/templates/next.js/nextjs-openai-doc-search-starter"
+    },
+    {
+      "summary": "vercel.com/templates/next.js/scribble-diffusion",
+      "timestamp": "2024-08-18T21:12:52",
+      "link": "https://vercel.com/templates/next.js/scribble-diffusion"
+    },
+    {
+      "summary": "vercel.com/templates/next.js/open-source-ai-artifacts",
+      "timestamp": "2024-08-18T21:13:07",
+      "link": "https://vercel.com/templates/next.js/open-source-ai-artifacts"
+    },
+    {
+      "summary": "vercel.com/templates/next.js/semantic-image-search",
+      "timestamp": "2024-08-18T21:13:17",
+      "link": "https://vercel.com/templates/next.js/semantic-image-search"
+    },
+    {
+      "summary": "vercel.com/templates/next.js/ai-photo-restorer",
+      "timestamp": "2024-08-18T21:13:46",
+      "link": "https://vercel.com/templates/next.js/ai-photo-restorer"
+    },
+    {
+      "summary": "vercel.com/templates/next.js/swift-ai-voice-assistant",
+      "timestamp": "2024-08-18T21:14:08",
+      "link": "https://vercel.com/templates/next.js/swift-ai-voice-assistant"
+    },
+    {
+      "summary": "vercel.com/templates/next.js/extrapolate",
+      "timestamp": "2024-08-18T21:14:21",
+      "link": "https://vercel.com/templates/next.js/extrapolate"
+    },
+    {
+      "summary": "vercel.com/templates/next.js/empathic-voice-interface-starter",
+      "timestamp": "2024-08-18T21:14:44",
+      "link": "https://vercel.com/templates/next.js/empathic-voice-interface-starter"
+    },
+    {
+      "summary": "vercel.com/templates/next.js/customer-reviews-ai-summary-nextjs-vercel",
+      "timestamp": "2024-08-18T21:14:51",
+      "link": "https://vercel.com/templates/next.js/customer-reviews-ai-summary-nextjs-vercel"
+    },
+    {
+      "summary": "fal.ai/",
+      "timestamp": "2024-08-18T21:16:53",
+      "link": "https://fal.ai/"
+    },
+    {
+      "summary": "openrouter.ai/",
+      "timestamp": "2024-08-20T01:23:32",
+      "link": "https://openrouter.ai/"
+    },
+    {
+      "summary": "cohere.com/llmu/constructing-prompts",
+      "timestamp": "2024-08-21T02:58:23",
+      "link": "https://cohere.com/llmu/constructing-prompts"
+    },
+    {
+      "summary": "play.aidungeon.com/",
+      "timestamp": "2024-08-21T14:37:23",
+      "link": "https://play.aidungeon.com/"
+    },
+    {
+      "summary": "vintasoftware.github.io/django-ai-assistant/latest/",
+      "timestamp": "2024-08-24T21:13:16",
+      "link": "https://vintasoftware.github.io/django-ai-assistant/latest/"
+    },
+    {
+      "summary": "github.com/vintasoftware/django-ai-assistant/tree/main/example#readme",
+      "timestamp": "2024-08-24T21:17:32",
+      "link": "https://github.com/vintasoftware/django-ai-assistant/tree/main/example#readme"
+    },
+    {
+      "summary": "sellbery.com/ecommerce-ai/",
+      "timestamp": "2024-08-25T00:53:42",
+      "link": "https://sellbery.com/ecommerce-ai/"
+    },
+    {
+      "summary": "describely.ai/",
+      "timestamp": "2024-08-25T01:06:02",
+      "link": "https://describely.ai/"
+    },
+    {
+      "summary": "dev.to/copilotkit/i-created-a-v0-clone-with-nextjs-gpt4-copilotkit-3cmb?t&utm_source=perplexity",
+      "timestamp": "2024-08-29T04:08:14",
+      "link": "https://dev.to/copilotkit/i-created-a-v0-clone-with-nextjs-gpt4-copilotkit-3cmb?t&utm_source=perplexity"
+    },
+    {
+      "summary": "github.com/Yuyz0112/dewhale",
+      "timestamp": "2024-08-29T04:09:13",
+      "link": "https://github.com/Yuyz0112/dewhale"
+    },
+    {
+      "summary": "Crawl entire website with Claude 3.5 or GPT4-o",
+      "timestamp": "2024-08-30T19:03:46",
+      "link": "https://github.com/mendableai/firecrawl"
+    },
+    {
+      "summary": "www.copilotkit.ai/",
+      "timestamp": "2024-09-02T04:25:32",
+      "link": "https://www.copilotkit.ai/"
+    },
+    {
+      "summary": "www.assistant-ui.com/",
+      "timestamp": "2024-09-02T04:25:37",
+      "link": "https://www.assistant-ui.com/"
+    },
+    {
+      "summary": "www.together.ai/blog/together-rerank-api-and-salesforce-llamarank",
+      "timestamp": "2024-09-02T07:09:12",
+      "link": "https://www.together.ai/blog/together-rerank-api-and-salesforce-llamarank"
+    },
+    {
+      "summary": "cohere.com/blog/rerank",
+      "timestamp": "2024-09-03T08:20:50",
+      "link": "https://cohere.com/blog/rerank"
+    },
+    {
+      "summary": "cohere.com/blog/rerank-3",
+      "timestamp": "2024-09-03T08:21:26",
+      "link": "https://cohere.com/blog/rerank-3"
+    },
+    {
+      "summary": "docs.cohere.com/docs/overview",
+      "timestamp": "2024-09-03T08:22:47",
+      "link": "https://docs.cohere.com/docs/overview"
+    },
+    {
+      "summary": "github.com/anthropics/anthropic-quickstarts/tree/main/customer-support-agent",
+      "timestamp": "2024-09-04T14:04:00",
+      "link": "https://github.com/anthropics/anthropic-quickstarts/tree/main/customer-support-agent"
+    },
+    {
+      "summary": "Link to anakin.ai blog about chatgpt jailbreak prompts",
+      "timestamp": "2024-10-25T20:32:26",
+      "link": "https://anakin.ai/blog/chatgpt-jailbreak-prompts/"
+    },
+    {
+      "summary": "Link to Chatgpt-DAN on GitHub",
+      "timestamp": "2024-10-25T20:32:26",
+      "link": "https://github.com/alexisvalentino/Chatgpt-DAN"
+    },
+    {
+      "summary": "Link to jailbreak_llms on GitHub",
+      "timestamp": "2024-10-25T20:34:22",
+      "link": "https://github.com/verazuo/jailbreak_llms"
+    },
+    {
+      "summary": "Link to together.ai AI search engine documentation",
+      "timestamp": "2024-10-29T21:40:26",
+      "link": "https://docs.together.ai/docs/ai-search-engine"
+    },
+    {
+      "summary": "Link to turboseek on GitHub",
+      "timestamp": "2024-10-29T21:40:44",
+      "link": "https://github.com/Nutlope/turboseek"
+    },
+    {
+      "summary": "Link to helicone.ai",
+      "timestamp": "2024-10-29T21:41:35",
+      "link": "https://www.helicone.ai/"
+    },
+    {
+      "summary": "Link to githubnext.com/projects/github-spark",
+      "timestamp": "2024-10-31T19:16:16",
+      "link": "https://githubnext.com/projects/github-spark"
+    },
+    {
+      "summary": "Link to theresanaiforthat.com",
+      "timestamp": "2024-10-31T19:21:30",
+      "link": "https://theresanaiforthat.com/"
+    },
+    {
+      "summary": "Link to PDF to Podcast notebook on GitHub",
+      "timestamp": "2024-10-31T20:26:20",
+      "link": "https://github.com/togethercomputer/together-cookbook/blob/main/PDF_to_Podcast.ipynb"
+    },
+    {
+      "summary": "Link to LinkedIn article about AI search going multimodal",
+      "timestamp": "2024-10-31T20:39:49",
+      "link": "https://www.linkedin.com/pulse/ai-search-goes-multimodal-cohere-ai-bw7ne"
+    },
+    {
+      "summary": "Link to Cohere's Agentic RAG documentation",
+      "timestamp": "2024-10-31T20:41:03",
+      "link": "https://docs.cohere.com/docs/agentic-rag"
+    },
+    {
+      "summary": "Link to dynamiq-ai.github.io/dynamiq/",
+      "timestamp": "2024-11-02T06:31:42",
+      "link": "https://dynamiq-ai.github.io/dynamiq/"
+    },
+    {
+      "summary": "Link to turboseek on GitHub",
+      "timestamp": "2024-11-05T20:21:07",
+      "link": "https://github.com/Nutlope/turboseek"
+    },
+    {
+      "summary": "Link to blinkshot on GitHub",
+      "timestamp": "2024-11-05T20:21:08",
+      "link": "https://github.com/Nutlope/blinkshot"
+    },
+    {
+      "summary": "Link to napkins on GitHub",
+      "timestamp": "2024-11-05T20:21:08",
+      "link": "https://github.com/Nutlope/napkins"
+    },
+    {
+      "summary": "Link to pdftochat on GitHub",
+      "timestamp": "2024-11-05T20:21:08",
+      "link": "https://github.com/Nutlope/pdftochat"
+    },
+    {
+      "summary": "Link to roomgpt.io",
+      "timestamp": "2024-11-05T20:21:08",
+      "link": "https://www.roomgpt.io"
+    },
+    {
+      "summary": "Link to roomGPT on GitHub",
+      "timestamp": "2024-11-05T20:21:16",
+      "link": "https://github.com/Nutlope/roomGPT"
+    },
+    {
+      "summary": "Link to promptlayer.com",
+      "timestamp": "2024-11-07T21:48:32",
+      "link": "https://www.promptlayer.com"
+    },
+    {
+      "summary": "Link to Next.js AI Chatbot Template 3.0 on Vercel changelog",
+      "timestamp": "2024-11-09T21:13:08",
+      "link": "https://vercel.com/changelog/next-js-ai-chatbot-template-3-0"
+    },
+    {
+      "summary": "Link to Weaviate Book Recommendations template on Vercel",
+      "timestamp": "2024-11-11T13:42:19",
+      "link": "https://vercel.com/templates/next.js/weaviate-bookrecs"
+    },
+    {
+      "summary": "Link to Next.js Live Transcription template on Vercel",
+      "timestamp": "2024-11-11T13:44:59",
+      "link": "https://vercel.com/templates/next.js/nextjslive-transcription"
+    },
+    {
+      "summary": "Link to Natural Language Postgres template on Vercel",
+      "timestamp": "2024-11-11T13:47:39",
+      "link": "https://vercel.com/templates/next.js/natural-language-postgres"
+    },
+    {
+      "summary": "Link to llamaocr.com and npm package",
+      "timestamp": "2024-11-13T09:40:31",
+      "link": "https://llamaocr.com/"
+    },
+    {
+      "summary": "Link to llamaocr npm package",
+      "timestamp": "2024-11-13T09:40:31",
+      "link": "https://www.npmjs.com/package/llama-ocr"
+    },
+    {
+      "summary": "Link to together.ai demos",
+      "timestamp": "2024-11-13T09:42:58",
+      "link": "https://www.together.ai/demos"
+    },
+    {
+      "summary": "Link to Vercel AI SDK 4.0 blog post",
+      "timestamp": "2024-11-19T04:09:48",
+      "link": "https://vercel.com/blog/ai-sdk-4-0"
+    },
+    {
+      "summary": "Link to aisuite on GitHub",
+      "timestamp": "2024-11-25T20:17:03",
+      "link": "https://github.com/andrewyng/aisuite"
+    },
+    {
+      "summary": "Link to ideogram.ai",
+      "timestamp": "2024-11-27T12:18:13",
+      "link": "https://ideogram.ai/"
+    },
+    {
+      "summary": "Link to Cohere's blog post about rerank-3pt5",
+      "timestamp": "2024-12-02T14:45:02",
+      "link": "https://cohere.com/blog/rerank-3pt5"
+    },
+    {
+      "summary": "Link to Milvus",
+      "timestamp": "2024-12-08T10:21:41",
+      "link": "https://milvus.io/"
+    },
+    {
+      "summary": "Link to Milvus multimodal demo",
+      "timestamp": "2024-12-08T21:24:41",
+      "link": "https://multimodal-demo.milvus.io/"
+    },
+    {
+      "summary": "Link to Milvus multimodal RAG documentation",
+      "timestamp": "2024-12-08T21:25:10",
+      "link": "https://milvus.io/docs/multimodal_rag_with_milvus.md"
+    },
+    {
+      "summary": "Link to Milvus reverse image search demo",
+      "timestamp": "2024-12-08T21:26:10",
+      "link": "https://milvus.io/milvus-demos/reverse-image-search"
+    },
+    {
+      "summary": "Link to DeepMind's Gemini technology",
+      "timestamp": "2024-12-11T21:59:57",
+      "link": "https://deepmind.google/technologies/gemini/"
+    },
+    {
+      "summary": "Link to Langchain blog about Unify agents",
+      "timestamp": "2024-12-17T21:10:30",
+      "link": "https://blog.langchain.dev/unify-launches-agents-for-account-qualification-using-langgraph-and-langsmith/"
+    },
+    {
+      "summary": "Link to LinkedIn blog about text-to-sql",
+      "timestamp": "2024-12-28T16:56:25",
+      "link": "https://www.linkedin.com/blog/engineering/ai/practical-text-to-sql-for-data-analytics"
+    },
+    {
+      "summary": "Link to v0.diy on GitHub",
+      "timestamp": "2024-12-29T02:29:43",
+      "link": "https://github.com/SujalXplores/v0.diy"
+    },
+    {
+      "summary": "Link to Anthropic's research on building effective agents",
+      "timestamp": "2024-12-30T02:02:10",
+      "link": "https://www.anthropic.com/research/building-effective-agents?t&utm_source=perplexity"
+    },
+    {
+      "summary": "Link to Deepseek",
+      "timestamp": "2024-12-30T03:01:51",
+      "link": "https://www.deepseek.com"
+    },
+    {
+      "summary": "Link to agenta.ai",
+      "timestamp": "2025-01-02T10:13:58",
+      "link": "https://agenta.ai"
+    },
+    {
+      "summary": "Link to promptperfect.jina.ai",
+      "timestamp": "2025-01-02T10:13:58",
+      "link": "https://promptperfect.jina.ai"
+    },
+    {
+      "summary": "Link to astria.ai",
+      "timestamp": "2025-01-03T21:54:12",
+      "link": "https://www.astria.ai"
+    },
+    {
+      "summary": "Link to controlflow.ai",
+      "timestamp": "2025-01-03T23:14:05",
+      "link": "https://controlflow.ai/"
+    },
+    {
+      "summary": "Link to decor8.ai AI virtual staging API",
+      "timestamp": "2025-01-04T13:59:04",
+      "link": "https://www.decor8.ai/ai-virtual-staging-api"
+    },
+    {
+      "summary": "Link to Upstash Vector Vercel AI SDK Starter template on Vercel",
+      "timestamp": "2025-01-04T14:45:04",
+      "link": "https://vercel.com/templates/next.js/upstash-vector-vercel-ai-sdk-starter"
+    },
+    {
+      "summary": "Link to clipdrop.co",
+      "timestamp": "2025-01-04T15:31:42",
+      "link": "https://clipdrop.co"
+    },
+    {
+      "summary": "Link to rev.ai",
+      "timestamp": "2025-01-04T17:15:36",
+      "link": "https://www.rev.ai"
+    },
+    {
+      "summary": "Link to ttapi.io",
+      "timestamp": "2025-01-04T17:44:14",
+      "link": "https://ttapi.io"
+    },
+    {
+      "summary": "Link to goapi.ai",
+      "timestamp": "2025-01-04T17:47:43",
+      "link": "https://goapi.ai/"
+    },
+    {
+      "summary": "Link to astica.ai",
+      "timestamp": "2025-01-04T17:58:12",
+      "link": "https://astica.ai/"
+    },
+    {
+      "summary": "Link to murf.ai",
+      "timestamp": "2025-01-04T19:19:49",
+      "link": "https://murf.ai"
+    },
+    {
+      "summary": "Link to relogoai.com",
+      "timestamp": "2025-01-04T19:20:05",
+      "link": "https://relogoai.com"
+    }
+  ],
+  "Tools & Utilities": [
+    {
+      "summary": "upscayl.org/download",
+      "timestamp": "2024-08-10T02:41:31",
+      "link": "https://upscayl.org/download"
+    },
+    {
+      "summary": "github.com/vercel-labs/book-inventory",
+      "timestamp": "2024-08-12T06:54:23",
+      "link": "https://github.com/vercel-labs/book-inventory"
+    },
+    {
+      "summary": "next-books-search.vercel.app/",
+      "timestamp": "2024-08-12T06:54:39",
+      "link": "https://next-books-search.vercel.app/"
+    },
+    {
+      "summary": "github.com/mendableai/firecrawl",
+      "timestamp": "2024-08-12T09:18:19",
+      "link": "https://github.com/mendableai/firecrawl"
+    },
+    {
+      "summary": "github.com/sabber-slt/NetExtract",
+      "timestamp": "2024-08-12T09:19:59",
+      "link": "https://github.com/sabber-slt/NetExtract"
+    },
+    {
+      "summary": "postgres.new/",
+      "timestamp": "2024-08-12T18:05:28",
+      "link": "https://postgres.new/"
+    },
+    {
+      "summary": "modal.com/",
+      "timestamp": "2024-08-18T22:35:30",
+      "link": "https://modal.com/"
+    },
+    {
+      "summary": "vercel.com/templates/next.js/novel",
+      "timestamp": "2024-08-18T21:12:20",
+      "link": "https://vercel.com/templates/next.js/novel"
+    },
+    {
+      "summary": "vercel.com/templates/next.js/qrGPT",
+      "timestamp": "2024-08-27T23:59:52",
+      "link": "https://vercel.com/templates/next.js/qrGPT"
+    },
+    {
+      "summary": "www.qrgpt.io/",
+      "timestamp": "2024-08-28T00:00:14",
+      "link": "https://www.qrgpt.io/"
+    },
+    {
+      "summary": "www.cursor.com",
+      "timestamp": "2024-08-28T16:44:59",
+      "link": "https://www.cursor.com"
+    },
+    {
+      "summary": "lenis.darkroom.engineering/",
+      "timestamp": "2024-08-22T12:41:47",
+      "link": "https://lenis.darkroom.engineering/"
+    },
+    {
+      "summary": "github.com/darkroomengineering/lenis",
+      "timestamp": "2024-08-22T12:42:00",
+      "link": "https://github.com/darkroomengineering/lenis"
+    }
+  ],
+  "Design Resources": [
+    {
+      "summary": "www.awwwards.com/",
+      "timestamp": "2024-08-28T16:49:58",
+      "link": "https://www.awwwards.com/"
+    },
+    {
+      "summary": "picsum.photos",
+      "timestamp": "2024-09-01T16:42:56",
+      "link": "https://picsum.photos"
+    }
+  ],
+  "Diagramming & Design Tools": [
+    {
+      "summary": "Mermaid Live online editor",
+      "timestamp": "2024-09-05T16:17:51",
+      "link": "https://mermaid.live/"
+    },
+    {
+      "summary": "Database diagramming tool",
+      "timestamp": "2024-09-23T22:58:31",
+      "link": "https://dbdiagram.io/"
+    }
+  ],
+  "Code Sandboxes & Online IDEs": [
+    {
+      "summary": "Sandpack CodeSandbox",
+      "timestamp": "2024-09-07T14:06:27",
+      "link": "https://sandpack.codesandbox.io/"
+    }
+  ],
+  "AI Primers & Learning Resources": [
+    {
+      "summary": "AI Primers by aman.ai",
+      "timestamp": "2024-09-16T17:42:40",
+      "link": "https://aman.ai/primers/ai/"
+    }
+  ],
+  "UX Psychology Study Guide": [
+    {
+      "summary": "NNGroup's Psychology Study Guide",
+      "timestamp": "2024-09-17T07:50:31",
+      "link": "https://www.nngroup.com/articles/psychology-study-guide/"
+    }
+  ],
+  "Revieve Personalization Platform": [
+    {
+      "summary": "Revieve website",
+      "timestamp": "2024-09-18T15:58:46",
+      "link": "https://www.revieve.com/"
+    }
+  ],
+  "Turborepo Examples": [
+    {
+      "summary": "Turborepo example with Tailwind CSS",
+      "timestamp": "2024-09-21T18:12:06",
+      "link": "https://github.com/vercel/turborepo/tree/main/examples/with-tailwind"
+    },
+    {
+      "summary": "Turbo Build website",
+      "timestamp": "2024-09-21T18:12:25",
+      "link": "https://turbo.build"
+    }
+  ],
+  "Vercel Style Guide": [
+    {
+      "summary": "Vercel's Style Guide on GitHub",
+      "timestamp": "2024-09-21T18:39:08",
+      "link": "https://github.com/vercel/style-guide"
+    }
+  ],
+  "Salesforce Marketing Resources": [
+    {
+      "summary": "Salesforce Marketing website",
+      "timestamp": "2024-09-22T13:44:57",
+      "link": "https://www.salesforce.com/marketing/"
+    },
+    {
+      "summary": "Salesforce Marketing Cloud documentation",
+      "timestamp": "2024-09-22T13:52:19",
+      "link": "https://developer.salesforce.com/docs/marketing/marketing-cloud/guide/get-started-index.html"
+    },
+    {
+      "summary": "Pardot landing page guide",
+      "timestamp": "2024-09-22T13:53:47",
+      "link": "https://developer.salesforce.com/docs/marketing/pardot/guide/landing-page-v5.html"
+    },
+    {
+      "summary": "Salesforce Marketing AI",
+      "timestamp": "2024-09-22T13:56:09",
+      "link": "https://www.salesforce.com/marketing/ai/"
+    }
+  ],
+  "Vercel AI SDK": [
+    {
+      "summary": "Vercel AI SDK 3.4 blog post",
+      "timestamp": "2024-09-23T23:27:47",
+      "link": "https://vercel.com/blog/ai-sdk-3-4"
+    },
+    {
+      "summary": "Link to sdk.vercel.ai/docs/ai-sdk-ui/chatbot-message-persistence",
+      "timestamp": "16.01.2025 15:51:26 UTC+03:30",
+      "link": "https://sdk.vercel.ai/docs/ai-sdk-ui/chatbot-message-persistence"
+    },
+    {
+      "summary": "Link to vercel.com/blog/ai-sdk-4-1",
+      "timestamp": "20.01.2025 22:54:06 UTC+03:30",
+      "link": "https://vercel.com/blog/ai-sdk-4-1"
+    },
+    {
+      "summary": "Link to sdk.vercel.ai/docs/foundations/agents",
+      "timestamp": "29.01.2025 16:07:40 UTC+03:30",
+      "link": "https://sdk.vercel.ai/docs/foundations/agents"
+    },
+    {
+      "summary": "Link to sdk.vercel.ai/docs/ai-sdk-core/tools-and-tool-calling#types",
+      "timestamp": "30.01.2025 06:25:14 UTC+03:30",
+      "link": "https://sdk.vercel.ai/docs/ai-sdk-core/tools-and-tool-calling#types"
+    }
+  ],
+  "UI Streak Status": [
+    {
+      "summary": "A clean UI to show streak status of multiple entities",
+      "timestamp": "2024-09-25T23:10:07",
+      "link": null
+    }
+  ],
+  "Napkins Design Tool": [
+    {
+      "summary": "Napkins design tool and GitHub repository",
+      "timestamp": "2024-09-25T23:33:48",
+      "link": "https://github.com/nutlope/napkins"
+    },
+    {
+      "summary": "Napkins design tool and GitHub repository",
+      "timestamp": "2024-09-25T23:33:48",
+      "link": "https://www.napkins.dev/"
+    }
+  ],
+  "Vercel Production Checklist": [
+    {
+      "summary": "Vercel production checklist documentation",
+      "timestamp": "2024-09-27T02:50:20",
+      "link": "https://vercel.com/docs/production-checklist"
+    }
+  ],
+  "Hume AI Empathic Voice Interface": [
+    {
+      "summary": "Hume EVI Next.js starter",
+      "timestamp": "2024-09-27T03:01:25",
+      "link": "https://hume-evi-next-js-starter.vercel.app/"
+    },
+    {
+      "summary": "Hume EVI Chat API reference",
+      "timestamp": "2024-09-27T03:03:15",
+      "link": "https://dev.hume.ai/reference/empathic-voice-interface-evi/chat/chat"
+    }
+  ],
+  "Full Stack FastAPI Template": [
+    {
+      "summary": "Full Stack FastAPI Template on GitHub",
+      "timestamp": "2024-09-27T17:48:21",
+      "link": "https://github.com/fastapi/full-stack-fastapi-template"
+    }
+  ],
+  "Dokploy Documentation": [
+    {
+      "summary": "Dokploy documentation introduction",
+      "timestamp": "2024-09-27T18:12:34",
+      "link": "https://docs.dokploy.com/en/docs/core/get-started/introduction"
+    }
+  ],
+  "AI Tools Directory": [
+    {
+      "summary": "Future Tools directory",
+      "timestamp": "2024-09-28T03:55:58",
+      "link": "https://www.futuretools.io"
+    },
+    {
+      "summary": "There's an AI for that directory",
+      "timestamp": "2024-09-28T03:55:58",
+      "link": "https://theresanaiforthat.com"
+    }
+  ],
+  "AWS Personalize": [
+    {
+      "summary": "AWS Personalize",
+      "timestamp": "2024-09-30T18:21:39",
+      "link": "https://www.amazonaws.cn/en/personalize"
+    }
+  ],
+  "Krea AI": [
+    {
+      "summary": "Krea AI website",
+      "timestamp": "2024-10-01T15:19:25",
+      "link": "https://www.krea.ai/"
+    }
+  ],
+  "OpenAI Realtime API": [
+    {
+      "summary": "Introducing the OpenAI Realtime API",
+      "timestamp": "2024-10-01T23:29:53",
+      "link": "https://openai.com/index/introducing-the-realtime-api/"
+    }
+  ],
+  "OpenAI API Prompt Caching": [
+    {
+      "summary": "OpenAI API Prompt Caching",
+      "timestamp": "2024-10-02T08:22:35",
+      "link": "https://openai.com/index/api-prompt-caching/"
+    }
+  ],
+  "Next.js Music Player": [
+    {
+      "summary": "Next.js Music Player GitHub repository",
+      "timestamp": "2024-10-02T13:09:12",
+      "link": "https://github.com/leerob/next-music-player"
+    },
+    {
+      "summary": "Next Tracks demo app",
+      "timestamp": "2024-10-02T13:09:37",
+      "link": "https://next-tracks.vercel.app/"
+    }
+  ],
+  "Dub.co Link Management": [
+    {
+      "summary": "Dub.co website",
+      "timestamp": "2024-10-03T17:10:58",
+      "link": "https://dub.co/"
+    }
+  ],
+  "Lenskart": [
+    {
+      "summary": "Lenskart website",
+      "timestamp": "2024-10-03T18:09:31",
+      "link": "https://www.lenskart.com"
+    }
+  ],
+  "YouTube Embeds": [
+    {
+      "summary": "YouTube embed",
+      "timestamp": "2024-10-03T19:52:09",
+      "link": "https://www.youtube.com/embed/DGn7BcFGigc"
+    },
+    {
+      "summary": "YouTube embed",
+      "timestamp": "2024-10-03T19:52:32",
+      "link": "https://www.youtube.com/embed/RsbS5JWxFyk"
+    },
+    {
+      "summary": "YouTube embed",
+      "timestamp": "2024-10-03T19:54:44",
+      "link": "https://www.youtube.com/embed/Kd02qR_LyA0"
+    },
+    {
+      "summary": "YouTube embed",
+      "timestamp": "2024-10-03T19:55:15",
+      "link": "https://www.youtube.com/embed/Sv3G3z6WzxU"
+    },
+    {
+      "summary": "YouTube embed",
+      "timestamp": "2024-10-03T19:55:36",
+      "link": "https://www.youtube.com/embed/_RCgNgyE3Ug"
+    }
+  ],
+  "Bolt.new": [
+    {
+      "summary": "Bolt.new website",
+      "timestamp": "2024-10-04T04:29:14",
+      "link": "https://bolt.new"
+    }
+  ],
+  "Flappy Bird": [
+    {
+      "summary": "Flappy Bird game",
+      "timestamp": "2024-10-04T05:20:25",
+      "link": "https://flappybird.v0.build/"
+    }
+  ],
+  "Pandas AI": [
+    {
+      "summary": "Pandas AI website",
+      "timestamp": "2024-10-04T13:00:27",
+      "link": "https://pandas-ai.com"
+    }
+  ],
+  "LLama Coder": [
+    {
+      "summary": "LLama Coder by Together AI",
+      "timestamp": "2024-10-04T22:52:08",
+      "link": "https://llamacoder.together.ai"
+    }
+  ],
+  "UI Design Statistics": [
+    {
+      "summary": "UI Design Statistics blog post",
+      "timestamp": "2024-10-04T23:02:43",
+      "link": "https://www.linearity.io/blog/ui-design-statistics/"
+    }
+  ],
+  "Postmortem Best Practices": [
+    {
+      "summary": "Best Practices for Postmortems Guide",
+      "timestamp": "2024-10-06T06:03:23",
+      "link": "https://last9.io/blog/best-practices-for-postmortems-a-guide/"
+    }
+  ],
+  "Agile SDLC": [
+    {
+      "summary": "7 Phases of Agile SDLC",
+      "timestamp": "2024-10-06T06:13:43",
+      "link": "https://www.rst.software/blog/7-phases-of-agile-sdlc"
+    },
+    {
+      "summary": "Agile SDLC",
+      "timestamp": "2024-10-06T06:16:19",
+      "link": "https://www.cleveroad.com/amp/blog/agile-sdlc/"
+    },
+    {
+      "summary": "SDLC in Agile",
+      "timestamp": "2024-10-06T06:39:43",
+      "link": "https://svprojectmanagement.com/how-the-sdlc-software-development-life-cycle-fits-into-agile"
+    }
+  ],
+  "Roadmap.sh": [
+    {
+      "summary": "Roadmap.sh website",
+      "timestamp": "2024-10-06T06:55:31",
+      "link": "https://roadmap.sh"
+    },
+    {
+      "summary": "Backend Performance Best Practices PDF",
+      "timestamp": "2024-10-06T07:02:38",
+      "link": "https://roadmap.sh/pdfs/best-practices/backend-performance.pdf"
+    }
+  ],
+  "Software Architecture": [
+    {
+      "summary": "Monolithic vs Service-Oriented vs Microservice Architecture",
+      "timestamp": "2024-10-06T08:33:36",
+      "link": "https://www.designgurus.io/blog/monolithic-service-oriented-microservice-architecture"
+    },
+    {
+      "summary": "Software Architecture video",
+      "timestamp": "2024-10-06T08:33:36",
+      "link": "https://youtu.be/KkzvQSuYd5I?si=Kn4nGUzbF8ZQOz_X"
+    }
+  ],
+  "YouTube Video": [
+    {
+      "summary": "YouTube video",
+      "timestamp": "2024-10-07T00:45:16",
+      "link": "https://m.youtube.com/watch?v=oFfVt3S51T4"
+    }
+  ],
+  "Vercel 3D Web Projects": [
+    {
+      "summary": "Add 3D to your web projects with v0 and React Three Fiber",
+      "timestamp": "2024-10-11T00:03:18",
+      "link": "https://vercel.com/blog/add-3d-to-your-web-projects-with-v0-and-react-three-fiber"
+    }
+  ],
+  "LLM Security": [
+    {
+      "summary": "LLM Security Guide by Tigera",
+      "timestamp": "2024-10-11T20:48:56",
+      "link": "https://www.tigera.io/learn/guides/llm-security/"
+    },
+    {
+      "summary": "OWASP LLM Vulnerabilities on HackerOne",
+      "timestamp": "2024-10-11T20:53:18",
+      "link": "https://www.hackerone.com/vulnerability-management/owasp-llm-vulnerabilities"
+    }
+  ],
+  "IOPaint Image Inpainting": [
+    {
+      "summary": "IOPaint GitHub repository",
+      "timestamp": "2024-10-11T21:31:56",
+      "link": "https://github.com/Sanster/IOPaint"
+    },
+    {
+      "summary": "IOPaint website",
+      "timestamp": "2024-10-11T21:32:12",
+      "link": "https://www.iopaint.com"
+    }
+  ],
+  "BFL ML API": [
+    {
+      "summary": "BFL ML API documentation",
+      "timestamp": "2024-10-13T22:08:32",
+      "link": "https://api.bfl.ml/docs"
+    },
+    {
+      "summary": "BFL ML documentation",
+      "timestamp": "2024-10-13T22:09:35",
+      "link": "https://docs.bfl.ml"
+    }
+  ],
+  "Fal AI Real-time Image Generation": [
+    {
+      "summary": "Fal AI real-time image generation app GitHub repository",
+      "timestamp": "2024-10-14T17:00:07",
+      "link": "https://github.com/JamieDawson/Fal-ai-real-time-AI-image-generation-app"
+    }
+  ],
+  "Vercel Next.js Templates": [
+    {
+      "summary": "Vercel Next.js templates",
+      "timestamp": "2024-10-17T01:13:24",
+      "link": "https://vercel.com/new/leele/templates/next.js/basehub-marketing-website"
+    },
+    {
+      "summary": "Vercel Next.js templates",
+      "timestamp": "2024-10-17T01:13:24",
+      "link": "https://vercel.com/new/leele/templates/next.js/virtual-event-starter-kit"
+    },
+    {
+      "summary": "Vercel Next.js templates",
+      "timestamp": "2024-10-17T01:13:24",
+      "link": "https://vercel.com/new/leele/templates/next.js/ai-sdk-internal-knowledge-base"
+    },
+    {
+      "summary": "Vercel Next.js templates",
+      "timestamp": "2024-10-17T01:13:24",
+      "link": "https://vercel.com/new/leele/templates/next.js/semantic-image-search"
+    },
+    {
+      "summary": "Vercel Next.js templates",
+      "timestamp": "2024-10-17T01:13:24",
+      "link": "https://vercel.com/new/leele/templates/next.js/reasoning-steps-ai-sdk"
+    },
+    {
+      "summary": "Vercel Next.js templates",
+      "timestamp": "2024-10-17T01:13:24",
+      "link": "https://vercel.com/new/leele/templates/next.js/scribble-diffusion"
+    },
+    {
+      "summary": "Vercel Next.js templates",
+      "timestamp": "2024-10-17T01:13:24",
+      "link": "https://vercel.com/new/leele/templates/next.js/documentation-template"
+    },
+    {
+      "summary": "Vercel Next.js templates",
+      "timestamp": "2024-10-17T01:13:24",
+      "link": "https://vercel.com/new/leele/templates/next.js/magic-portfolio-for-next-js"
+    }
+  ],
+  "Virtual Try-On": [
+    {
+      "summary": "Virtual Try-On Application using Flask, Twilio, and Gradio",
+      "timestamp": "2024-10-20T10:52:38",
+      "link": "https://github.com/adarshb3/Virtual-Try-On-Application-using-Flask-Twilio-and-Gradio"
+    },
+    {
+      "summary": "Machine Learning Virtual Try-on GitHub repository",
+      "timestamp": "2024-10-20T11:07:43",
+      "link": "https://github.com/Mai1902/MachineLearning-VirtualTryon.git"
+    },
+    {
+      "summary": "Virtual Makeup GitHub repository",
+      "timestamp": "2024-10-20T11:09:09",
+      "link": "https://github.com/srivatsan-ramesh/Virtual-Makeup.git"
+    },
+    {
+      "summary": "Beauty Web GitHub repository",
+      "timestamp": "2024-10-20T11:09:47",
+      "link": "https://github.com/Banuba/beauty-web.git"
+    },
+    {
+      "summary": "Beauty Web demo",
+      "timestamp": "2024-10-20T11:10:52",
+      "link": "https://banuba.github.io/beauty-web"
+    },
+    {
+      "summary": "Virtual Makeup GitHub repository",
+      "timestamp": "2024-10-20T11:12:15",
+      "link": "https://github.com/xyfer17/Virtual-Makeup.git"
+    },
+    {
+      "summary": "Virtual Makeup GitHub repository",
+      "timestamp": "2024-10-20T11:13:14",
+      "link": "https://github.com/akshitagupta15june/Virtual-Makeup"
+    },
+    {
+      "summary": "Virtual Makeup GitHub repository",
+      "timestamp": "2024-10-20T11:13:33",
+      "link": "https://github.com/Charan0/Virtual-Makeup"
+    },
+    {
+      "summary": "Awesome Virtual Try-On GitHub repository",
+      "timestamp": "2024-10-20T11:17:34",
+      "link": "https://github.com/minar09/awesome-virtual-try-on"
+    }
+  ],
+  "Prompt2UI": [
+    {
+      "summary": "Prompt2UI GitHub repository",
+      "timestamp": "2024-10-22T01:16:19",
+      "link": "https://github.com/sullyo/prompt2ui"
+    }
+  ],
+  "AI Artifacts": [
+    {
+      "summary": "nextArtifacts GitHub repository",
+      "timestamp": "2024-10-22T01:20:15",
+      "link": "https://github.com/etrobot/nextArtifacts.git"
+    },
+    {
+      "summary": "open-artifacts GitHub repository",
+      "timestamp": "2024-10-22T01:20:28",
+      "link": "https://github.com/13point5/open-artifacts.git"
+    },
+    {
+      "summary": "Open Source AI Artifacts Next.js template",
+      "timestamp": "2024-10-22T01:23:04",
+      "link": "https://vercel.com/templates/next.js/open-source-ai-artifacts"
+    }
+  ],
+  "Next.js 15": [
+    {
+      "summary": "Next.js 15 blog post",
+      "timestamp": "2024-10-22T01:33:34",
+      "link": "https://nextjs.org/blog/next-15"
+    }
+  ],
+  "AI Safety Tools": [
+    {
+      "summary": "Meta releases open source tools for AI safety",
+      "timestamp": "2024-10-23T23:25:41",
+      "link": "https://www.infoworld.com/article/2335469/meta-releases-open-source-tools-for-ai-safety.html?t&utm_source=perplexity"
+    },
+    {
+      "summary": "Dioptra GitHub repository",
+      "timestamp": "2024-10-23T23:26:19",
+      "link": "https://github.com/usnistgov/dioptra"
+    }
+  ],
+  "Vapi.ai": [
+    {
+      "summary": "Vapi.ai website",
+      "timestamp": "2024-10-24T12:40:49",
+      "link": "https://vapi.ai"
+    }
+  ],
+  "General": [
+    {
+      "summary": "Link to jsoncrack.com",
+      "timestamp": "2024-10-24T16:11:10",
+      "link": "https://jsoncrack.com"
+    },
+    {
+      "summary": "Link to ui.aceternity.com",
+      "timestamp": "2024-11-11T18:49:55",
+      "link": "https://ui.aceternity.com/"
+    },
+    {
+      "summary": "Link to mobbin.com",
+      "timestamp": "2024-12-17T16:06:22",
+      "link": "https://mobbin.com/"
+    },
+    {
+      "summary": "Link to fountn.design",
+      "timestamp": "2024-12-23T15:50:40",
+      "link": "https://fountn.design/"
+    },
+    {
+      "summary": "Link to action.new",
+      "timestamp": "2024-12-31T20:18:28",
+      "link": "https://action.new"
+    },
+    {
+      "summary": "Link to bolt.new",
+      "timestamp": "2025-01-01T02:38:11",
+      "link": "https://bolt.new/"
+    },
+    {
+      "summary": "Link to gartner.com",
+      "timestamp": "2025-01-01T20:55:50",
+      "link": "https://www.gartner.com/en/articles/top-technology-trends-2025"
+    },
+    {
+      "summary": "Link to a16z.com",
+      "timestamp": "2025-01-01T21:04:50",
+      "link": "https://a16z.com/big-ideas-in-tech-2025/"
+    }
+  ],
+  "Security": [
+    {
+      "summary": "Link to ddos.tic.ir",
+      "timestamp": "2024-12-10T09:21:12",
+      "link": "https://ddos.tic.ir"
+    }
+  ],
+  "Podcast": [
+    {
+      "summary": "Link to podcastfy.git on GitHub",
+      "timestamp": "2024-12-09T18:13:56",
+      "link": "https://github.com/souzatharsis/podcastfy.git"
+    }
+  ],
+  "Video": [
+    {
+      "summary": "Link to YouTube video",
+      "timestamp": "2024-12-01T22:26:42",
+      "link": "https://youtu.be/ZJ4VmNYCVLs?si=3nibqFkGaW41ATO9"
+    }
+  ],
+  "Search": [
+    {
+      "summary": "Link to mplx.run search",
+      "timestamp": "2024-12-16T10:38:02",
+      "link": "https://mplx.run/search"
+    }
+  ],
+  "OpenAI": [
+    {
+      "summary": "Link to OpenAI 12 days",
+      "timestamp": "2024-12-05T18:41:31",
+      "link": "https://openai.com/12-days/"
+    }
+  ],
+  "Social Media": [
+    {
+      "summary": "Link to X post",
+      "timestamp": "2024-12-30T02:03:16",
+      "link": "https://x.com/cj_zZZz/status/1873417505550868647"
+    }
+  ],
+  "AI Tools & Platforms": [
+    {
+      "summary": "Link to lovo.ai",
+      "timestamp": "04.01.2025 22:50:05 UTC+03:30",
+      "link": "https://lovo.ai"
+    },
+    {
+      "summary": "Link to genesis-embodied-ai.github.io",
+      "timestamp": "05.01.2025 09:11:18 UTC+03:30",
+      "link": "https://genesis-embodied-ai.github.io"
+    },
+    {
+      "summary": "Link to make.com",
+      "timestamp": "05.01.2025 10:38:34 UTC+03:30",
+      "link": "https://www.make.com"
+    },
+    {
+      "summary": "Link to n8n.io",
+      "timestamp": "05.01.2025 10:39:59 UTC+03:30",
+      "link": "https://n8n.io"
+    },
+    {
+      "summary": "Link to dify.ai",
+      "timestamp": "05.01.2025 20:18:17 UTC+03:30",
+      "link": "https://dify.ai"
+    },
+    {
+      "summary": "Link to blinkshot.io",
+      "timestamp": "07.01.2025 00:49:37 UTC+03:30",
+      "link": "https://www.blinkshot.io"
+    },
+    {
+      "summary": "Link to stately.ai/docs/agents",
+      "timestamp": "11.01.2025 21:05:45 UTC+03:30",
+      "link": "https://stately.ai/docs/agents"
+    },
+    {
+      "summary": "Link to agentrecipes.com",
+      "timestamp": "16.01.2025 04:11:31 UTC+03:30",
+      "link": "https://www.agentrecipes.com"
+    },
+    {
+      "summary": "Link to ollama.com/library/deepseek-r1",
+      "timestamp": "23.01.2025 03:50:36 UTC+03:30",
+      "link": "https://ollama.com/library/deepseek-r1"
+    },
+    {
+      "summary": "Link to docs.nlkit.com",
+      "timestamp": "30.01.2025 21:28:23 UTC+03:30",
+      "link": "https://docs.nlkit.com/"
+    },
+    {
+      "summary": "Link to botonic.io",
+      "timestamp": "30.01.2025 21:30:17 UTC+03:30",
+      "link": "https://botonic.io"
+    },
+    {
+      "summary": "Link to open-notebook.ai",
+      "timestamp": "01.02.2025 22:00:44 UTC+03:30",
+      "link": "https://www.open-notebook.ai/"
+    }
+  ],
+  "GitHub Repositories": [
+    {
+      "summary": "Link to github.com/kaiban-ai/KaibanJS",
+      "timestamp": "05.01.2025 22:25:24 UTC+03:30",
+      "link": "https://github.com/kaiban-ai/KaibanJS"
+    },
+    {
+      "summary": "Link to github.com/stackblitz-labs/bolt.diy",
+      "timestamp": "07.01.2025 21:44:51 UTC+03:30",
+      "link": "https://github.com/stackblitz-labs/bolt.diy"
+    },
+    {
+      "summary": "Link to github.com/open-webui/open-webui",
+      "timestamp": "07.01.2025 21:47:42 UTC+03:30",
+      "link": "https://github.com/open-webui/open-webui"
+    },
+    {
+      "summary": "Link to github.com/nutlope/llamacoder",
+      "timestamp": "08.01.2025 01:25:30 UTC+03:30",
+      "link": "https://github.com/nutlope/llamacoder"
+    },
+    {
+      "summary": "Link to github.com/ComposioHQ/composio",
+      "timestamp": "11.01.2025 21:11:13 UTC+03:30",
+      "link": "https://github.com/ComposioHQ/composio"
+    },
+    {
+      "summary": "Link to github.com/microsoft/monaco-editor",
+      "timestamp": "18.01.2025 05:48:10 UTC+03:30",
+      "link": "https://github.com/microsoft/monaco-editor"
+    },
+    {
+      "summary": "Link to github.com/microsoft/markitdown",
+      "timestamp": "18.01.2025 10:41:53 UTC+03:30",
+      "link": "https://github.com/microsoft/markitdown"
+    },
+    {
+      "summary": "Link to github.com/promplate/partial-json-parser-js",
+      "timestamp": "28.01.2025 23:42:57 UTC+03:30",
+      "link": "https://github.com/promplate/partial-json-parser-js"
+    },
+    {
+      "summary": "Link to github.com/tavily-ai/tavily-mcp",
+      "timestamp": "29.01.2025 08:26:20 UTC+03:30",
+      "link": "https://github.com/tavily-ai/tavily-mcp"
+    },
+    {
+      "summary": "Link to github.com/lfnovo/open-notebook",
+      "timestamp": "01.02.2025 21:58:24 UTC+03:30",
+      "link": "https://github.com/lfnovo/open-notebook"
+    }
+  ],
+  "Other AI/ML Resources": [
+    {
+      "summary": "Link to uber.com/en-NL/blog/personalized-marketing-at-scale/",
+      "timestamp": "05.01.2025 16:55:22 UTC+03:30",
+      "link": "https://www.uber.com/en-NL/blog/personalized-marketing-at-scale/"
+    },
+    {
+      "summary": "Link to blog.tavily.com/companyresearcher/",
+      "timestamp": "06.01.2025 00:06:58 UTC+03:30",
+      "link": "https://blog.tavily.com/companyresearcher/"
+    },
+    {
+      "summary": "Link to storm.genie.stanford.edu",
+      "timestamp": "08.01.2025 16:22:09 UTC+03:30",
+      "link": "https://storm.genie.stanford.edu"
+    },
+    {
+      "summary": "Link to huggingface.co/spaces/ysharma/Make_Custom_Voices_With_KokoroTTS",
+      "timestamp": "18.01.2025 10:44:11 UTC+03:30",
+      "link": "https://huggingface.co/spaces/ysharma/Make_Custom_Voices_With_KokoroTTS"
+    },
+    {
+      "summary": "Link to npmjs.com/package/ai-reviver",
+      "timestamp": "01.02.2025 12:18:52 UTC+03:30",
+      "link": "https://www.npmjs.com/package/ai-reviver"
+    }
+  ],
+  "Web Development Resources": [
+    {
+      "summary": "Link to stackblitz-labs.github.io/bolt.diy/",
+      "timestamp": "07.01.2025 21:42:58 UTC+03:30",
+      "link": "https://stackblitz-labs.github.io/bolt.diy/"
+    },
+    {
+      "summary": "Link to mockapi.io",
+      "timestamp": "20.01.2025 02:51:39 UTC+03:30",
+      "link": "https://mockapi.io"
+    },
+    {
+      "summary": "Link to relume.io",
+      "timestamp": "22.01.2025 14:27:37 UTC+03:30",
+      "link": "https://www.relume.io"
+    },
+    {
+      "summary": "Link to wegic.ai",
+      "timestamp": "22.01.2025 14:27:48 UTC+03:30",
+      "link": "https://wegic.ai"
+    },
+    {
+      "summary": "Link to codeium.com/windsurf",
+      "timestamp": "22.01.2025 22:25:00 UTC+03:30",
+      "link": "https://codeium.com/windsurf"
+    },
+    {
+      "summary": "Link to blocks.tremor.so/",
+      "timestamp": "23.01.2025 20:37:11 UTC+03:30",
+      "link": "https://blocks.tremor.so/"
+    },
+    {
+      "summary": "Link to lumalabs.ai/",
+      "timestamp": "30.01.2025 07:50:45 UTC+03:30",
+      "link": "https://lumalabs.ai/"
+    },
+    {
+      "summary": "Link to remixicon.com/",
+      "timestamp": "30.01.2025 11:30:58 UTC+03:30",
+      "link": "https://remixicon.com/"
+    }
+  ],
+  "Landing Page": [
+    {
+      "summary": "Link to landing.chat",
+      "timestamp": "11.01.2025 11:56:19 UTC+03:30",
+      "link": "https://landing.chat"
+    },
+    {
+      "summary": "Link to memex.tech",
+      "timestamp": "02.02.2025 13:29:04 UTC+03:30",
+      "link": "https://memex.tech"
+    }
+  ]
+}
